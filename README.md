@@ -2,7 +2,7 @@
 
 
 
-肥宅科学上网方案！
+【肥宅快乐上网方案】 开心上网·科学上网！
 
 上网导航搜集：
 
@@ -49,7 +49,7 @@ https://lncn.org/
 
 起飞之后！
 
-LSP导航 GHS
+LSP导航 GHS！
 https://theporndude.com/zh
 
 国外网站工具合集导航
