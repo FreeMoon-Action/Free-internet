@@ -64,6 +64,10 @@ https://github.com/githubvpn007/proxy
 
 https://suying222.net/auth/register?code=Nzib
 
+魔戒（按流量计费的机场，推荐！价格1元10g，10元130g等等，不限制时间人数）
+
+https://mojie.me/#/register?code=vcGOwRe1
+
 XIXI机场（入门版12.5/月，不太推荐，但也比很多垃圾机场强）
 
 https://xixi0001.com/auth/register?code=UWPs
@@ -83,8 +87,15 @@ https://lncn.org/
 ----------------------------
 ----------------------------
 
-起 飞 之 后 ！
+翻出去之后 ！
 -----------
+
+什么是墙？ https://www.youtube.com/watch?v=XKZM_AjCUr0
+
+FQ方式科普：https://www.youtube.com/watch?v=f9ohvZyQrmY
+
+
+
 
 国外网站工具合集导航
 -----------
