@@ -2,15 +2,18 @@
 
 
 【肥宅快乐上网方案】 开心上网·科学上网！
+-----------
 by baicai studio
 
 
 ----------------------------
+
 （注意：本文章 在自动翻译的浏览器下，会显示不正常，请关掉自动翻译，或者使用Egde、Chrome浏览器打开）
+
 ----------------------------
 
 FQ.KX 上网导航搜集：
-
+-----------
 https://github.com/githubvpn007/v2rayNvpn
 
 https://github.com/chncho/fan_qiang
@@ -18,7 +21,7 @@ https://github.com/chncho/fan_qiang
 ----------------------------
 
 FQ软件工具：
-
+-----------
 c.l.a.s.h汉化版 （推荐）
 
 https://github.com/ender-zhao/Clash-for-Windows_Chinese
@@ -35,14 +38,16 @@ https://github.com/githubvpn007/proxy
 
 
 ----------------------------
-其他工具：
 
+其他工具：
+-----------
 节点测速工具https://www.youtube.com/watch?v=aSR6OuqtFdU
 
 
 ----------------------------
 
 大道至简，路由器FQ，才是最终解决方案！
+-----------
 
 入门级推荐使用红米AC2100路由器（咸鱼100元左右），刷老毛子固件，实现路由器FQ，一劳永逸。
 
@@ -56,6 +61,7 @@ https://github.com/githubvpn007/proxy
 ----------------------------
 
 机场推荐：
+-----------
 
 速鹰666（入门版11.9/月，老牌机场）
 
@@ -69,6 +75,7 @@ https://xixi0001.com/auth/register?code=UWPs
 
 
 每日更新的免费节点：（谨慎使用，注意隐私）
+-----------
 
 https://github.com/UmeLabs/node.umelabs.dev
 
@@ -80,8 +87,10 @@ https://lncn.org/
 
 
 起 飞 之 后 ！
+-----------
 
 国外网站工具合集导航
+-----------
 
 https://10beasts.net/recommend/
 
@@ -89,12 +98,14 @@ https://qiangwaikan.com/
 
 
 LSP导航 GHS！
+-----------
 
 https://theporndude.com/zh
 
 ----------------------------
 
 为什么要创建这个GitHub文章？ 有什么用？
+-----------
 
 1，为了方便自己。我收藏了很多干货优秀的GitHub文章，但是在多设备之间不方便查找和同步，所以创建这个收藏文章的文章。
    
@@ -107,6 +118,7 @@ https://theporndude.com/zh
 ----------------------------
 
 最后
+-----------
 
 安安静静的使用，别在其他地方乱发这篇文章。
 
@@ -116,6 +128,8 @@ https://theporndude.com/zh
 ----------------------------
 
 更新日志：
+-----------
+
 2021年11月3日 创建
 2021年11月7日 更新描述
 
