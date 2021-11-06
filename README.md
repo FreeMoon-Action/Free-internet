@@ -14,29 +14,35 @@ https://github.com/chncho/fan_qiang
 
 ----------------------------
 
-软件工具：（首选 c.l.a.s.h）
+FQ软件工具：
 
-c.l.a.s.h汉化版
+c.l.a.s.h汉化版 （推荐）
 
 https://github.com/ender-zhao/Clash-for-Windows_Chinese
 
 v2rayN (下载+教程)
-
 https://github.com/githubvpn007/v2rayNvpn/blob/main/V2rayN_Windows.md
 
-不知道怎么选？ 选哪个？
+SSR（不推荐）
+https://github.com/githubvpn007/v2rayNvpn/blob/main/ssr_windows.md
 
+
+不知道怎么选？ 选哪个？
 https://github.com/githubvpn007/proxy
+
+
+----------------------------
+其他工具：
 
 节点测速工具https://www.youtube.com/watch?v=aSR6OuqtFdU
 
 
 ----------------------------
 
-大道至简，路由器起飞，才是最终解决方案！
+大道至简，路由器FQ，才是最终解决方案！
 
 入门级推荐使用红米AC2100路由器（咸鱼100元左右），刷老毛子固件，实现路由器FQ，一劳永逸。
-刷机教程 https://www.bilibili.com/video/BV1HZ4y1P7A9
+刷固件教程 https://www.bilibili.com/video/BV1HZ4y1P7A9
 刷机后，路由器FQ设置教程，可以去YouTube上面搜索，有非常多中文教程，国内是没有这种教程的，懂的都懂。
 
 
@@ -95,7 +101,7 @@ https://theporndude.com/zh
 
 最后
 安安静静的使用，别在其他地方乱发这篇文章。
-起飞上网请低调，别乱发违法内容，切记。
+起飞上网请低调，别乱发违法内容，切记！ 因为不止你会翻。
 
 ----------------------------
 
@@ -104,4 +110,4 @@ https://theporndude.com/zh
 2021年11月7日 更新描述
 
 
-
+（注意：本文章 在自动翻译的浏览器下，会显示不正常，请关掉自动翻译，或者使用Egde、Chrome浏览器）
