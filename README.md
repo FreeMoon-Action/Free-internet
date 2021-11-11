@@ -20,7 +20,6 @@ https://github.com/chncho/fan_qiang
 FQ软件工具：
 -----------
 c.l.a.s.h汉化版 （推荐）
-
 https://github.com/ender-zhao/Clash-for-Windows_Chinese
 
 v2rayN (下载+教程)
@@ -38,7 +37,7 @@ https://github.com/githubvpn007/proxy
 
 其他工具：
 -----------
-节点测速工具https://www.youtube.com/watch?v=aSR6OuqtFdU
+节点测速工具https://youtu.be/aSR6OuqtFdU
 
 
 ----------------------------
@@ -98,10 +97,9 @@ https://lncn.org/
 翻出去之后 ！
 -----------
 
-什么是墙？ https://www.youtube.com/watch?v=XKZM_AjCUr0
+什么是墙？ https://youtu.be/XKZM_AjCUr0
 
-FQ方式科普：https://www.youtube.com/watch?v=f9ohvZyQrmY
-
+FQ方式科普：https://youtu.be/f9ohvZyQrmY
 
 
 
