@@ -21,6 +21,8 @@ FQ软件工具：
 c.l.a.s.h汉化版 （推荐）
 https://github.com/ender-zhao/Clash-for-Windows_Chinese
 
+clash安卓版https://github.com/Kr328/ClashForAndroid/releases
+
 v2rayN (下载+教程)
 https://github.com/githubvpn007/v2rayNvpn/blob/main/V2rayN_Windows.md
 
@@ -89,6 +91,20 @@ https://github.com/UmeLabs/node.umelabs.dev
 https://www.youneed.win/free-v2ray
 
 https://lncn.org/
+
+
+----------------------------
+
+教程搜集：
+-------
+
+clash简单教程：https://youtu.be/9Ice-qMePQk
+
+clash详细教程：https://youtu.be/HY5q2riVwRk
+
+
+
+
 
 ----------------------------
 ----------------------------
