@@ -86,6 +86,9 @@ https://xixi0001.com/auth/register?code=UWPs
 每日更新的免费节点：（谨慎使用，注意隐私）
 -----------
 
+破解资源君的免费节点（Ctrl+F搜索当天日期，比如1212.zip）
+https://github.com/pojiezhiyuanjun/freev2
+
 https://github.com/UmeLabs/node.umelabs.dev
 
 https://www.youneed.win/free-v2ray
@@ -101,9 +104,6 @@ https://lncn.org/
 clash简单教程：https://youtu.be/9Ice-qMePQk
 
 clash详细教程：https://youtu.be/HY5q2riVwRk
-
-
-
 
 
 ----------------------------
@@ -124,6 +124,15 @@ FQ方式科普：https://youtu.be/f9ohvZyQrmY
 https://10beasts.net/recommend/
 
 https://qiangwaikan.com/
+
+
+电影、电视剧、影视
+-----
+
+破解资源君的在线电影网站
+https://github.com/pojiezhiyuanjun/freemovie/wiki
+
+
 
 
 LSP导航 GHS！
