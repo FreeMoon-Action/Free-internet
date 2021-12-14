@@ -18,7 +18,7 @@ https://github.com/chncho/fan_qiang
 
 FQ软件工具：
 -----------
-c.l.a.s.h汉化版 （推荐）
+clash汉化版 （推荐）
 https://github.com/ender-zhao/Clash-for-Windows_Chinese
 
 clash安卓版https://github.com/Kr328/ClashForAndroid/releases
@@ -96,11 +96,12 @@ https://www.youneed.win/free-v2ray
 https://lncn.org/
 
 
+----------------------------
 
 电影、电视剧、影视
 -----
 
-破解资源君的在线电影网站
+破解资源君的在线电影网站推荐
 https://github.com/pojiezhiyuanjun/freemovie/wiki
 
 
@@ -172,6 +173,8 @@ https://drive.google.com/file/d/1__kigVyhT9etZOkcZ-eOEbfrkiFSKvef/view
 2021年11月3日 创建
 
 2021年11月7日 更新描述
+
+2021年12月14日 更新内容
 
 
 （注意：本文章 在自动翻译的浏览器下，会显示不正常，请关掉自动翻译，或者使用Egde、Chrome浏览器打开）
