@@ -96,6 +96,14 @@ https://www.youneed.win/free-v2ray
 https://lncn.org/
 
 
+
+电影、电视剧、影视
+-----
+
+破解资源君的在线电影网站
+https://github.com/pojiezhiyuanjun/freemovie/wiki
+
+
 ----------------------------
 
 教程搜集：
@@ -124,15 +132,6 @@ FQ方式科普：https://youtu.be/f9ohvZyQrmY
 https://10beasts.net/recommend/
 
 https://qiangwaikan.com/
-
-
-电影、电视剧、影视
------
-
-破解资源君的在线电影网站
-https://github.com/pojiezhiyuanjun/freemovie/wiki
-
-
 
 
 LSP导航 GHS！
