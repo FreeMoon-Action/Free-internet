@@ -98,6 +98,8 @@ https://www.youneed.win/free-v2ray
 
 https://lncn.org/
 
+临时FQ工具，轻量化clash，下载地址https://bulianglin.com/archives/easyclash.html
+教程https://youtu.be/-I5T1G6NdKM
 
 ----------------------------
 
