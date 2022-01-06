@@ -135,9 +135,47 @@ FQ方式科普：https://youtu.be/f9ohvZyQrmY
 国外网站工具合集导航
 -----------
 
-https://10beasts.net/recommend/
 
-https://qiangwaikan.com/
+国外热门的网站推荐https://qiangwaikan.com/
+
+翻出去后，优秀的网站推荐https://10beasts.net/recommend/
+
+
+
+----------------------------
+
+常用站点/推荐
+-----------
+
+全球上网测速。。。https://fast.com/zh/tw/
+
+1337X 搜种子电影音乐等等https://www.1377x.to/
+
+APKPure应用商店,下载全球app的安卓APK，https://apkpure.com/cn/
+
+自学英语推荐（罗塞塔石碑）：https://youtu.be/DTklFxLIcW8
+
+谷歌邮箱Gmail，全球上网冲浪必备！（注册谷歌号即可）https://mail.google.com/
+
+微软邮箱，免手机号，上网冲浪必备！https://outlook.live.com/mail/0/
+
+Tutanota开源、端到端加密邮箱https://tutanota.com/
+
+
+YouTube频道推荐：
+-----------
+
+跟洋妞学英语 Jackie https://www.youtube.com/c/JackiesEnglishClass/featured
+
+老梁故事会 https://www.youtube.com/channel/UCr_F4Y9iboUKlg_ZPm4jkVQ
+
+DIY Perks DIY大佬 https://www.youtube.com/c/DIYPerks/featured
+
+老高與小茉 https://www.youtube.com/channel/UCMUnInmOkrWN4gof9KlhNmQ/featured
+
+Sean的世界TV 泰国vlog https://www.youtube.com/channel/UCPmbIdXZzLDHNR0PejH0iEQ/videos
+
+未完待续...
 
 
 LSP导航！
@@ -155,6 +193,7 @@ P站https://cn.pornhub.com/
 
 GHS图片https://asiansister.com/tag.php?tag=hot
 
+JavDB番号库https://javdb.com/
 
 ----------------------------
 
@@ -187,6 +226,7 @@ GHS图片https://asiansister.com/tag.php?tag=hot
 
 2021年12月14日 更新内容
 
+2022年1月6日 更新内容
 
 （注意：本文章 在自动翻译的浏览器下，会显示不正常，要关掉自动翻译，或者使用Egde、Chrome浏览器打开）
 
