@@ -147,6 +147,11 @@ FQ方式科普：https://youtu.be/f9ohvZyQrmY
 常用站点/推荐
 -----------
 
+YouTube全球最大的视频网站https://www.youtube.com/
+
+Telegram电报，国外常用的聊天工具，类似QQ微信https://telegram.org/
+
+
 全球上网测速。。。https://fast.com/zh/tw/
 
 1337X 搜种子电影音乐等等https://www.1377x.to/
