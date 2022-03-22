@@ -46,6 +46,10 @@ https://github.com/githubvpn007/proxy
 节点测速工具https://youtu.be/aSR6OuqtFdU
 
 
+QB下载器 qBittorrent 增强版-下载_QT6_x64_setup.exe版本https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases
+订阅跟踪列表-精选列表-复制网址-在QB设置-地球logoBitTorrent下面勾选-粘贴Refetch-应用+确定
+https://github.com/XIU2/TrackersListCollection/blob/master/README-ZH.md
+
 ----------------------------
 
 路由器
