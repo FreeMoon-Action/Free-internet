@@ -46,7 +46,8 @@ https://github.com/githubvpn007/proxy
 节点测速工具https://youtu.be/aSR6OuqtFdU
 
 
-QB下载器 qBittorrent 增强版-下载_QT6_x64_setup.exe版本https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases
+QB下载器 qBittorrent 增强版-下载_QT6_x64_setup.exe版本 https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases
+
 订阅跟踪列表-精选列表-复制网址-在QB设置-地球logoBitTorrent下面勾选-粘贴Refetch-应用+确定
 https://github.com/XIU2/TrackersListCollection/blob/master/README-ZH.md
 
@@ -55,7 +56,7 @@ https://github.com/XIU2/TrackersListCollection/blob/master/README-ZH.md
 路由器
 -----------
 
-入门级推荐使用红米AC2100路由器（咸鱼100元左右），刷老毛子固件，实现路由器上网，一劳永逸。缺点是家用路由器性能一般，延迟和带宽会有点影响。
+入门级路由器，红米AC2100路由器（咸鱼100元左右），刷老毛子固件，实现路由器上网，一劳永逸。缺点是家用路由器性能一般，延迟和带宽会有点影响，接近百兆但跑不满。
 
 刷固件教程 https://www.bilibili.com/video/BV1HZ4y1P7A9
 
@@ -64,7 +65,7 @@ https://github.com/XIU2/TrackersListCollection/blob/master/README-ZH.md
 其它具体路由器设置教程，可以去YouTube上面搜索，有非常多中文教程，国内是没有这种教程的。
 
 
-当然最终解决方法还得是软路由使用OpenWrt，性能强大，功能丰富，拓展性强。缺点是需要买设备，而且配置麻烦
+最终解决方法-软路由+OpenWrt，性能强大，功能丰富，拓展性强。需要买设备，且配置麻烦
 
 或者局域网网关模式，也可以实现同一个wifi下的设备上网，不过需要多一步设置手动代理。缺点是始终需要一台设备分享局域网代理。
 教程https://youtu.be/Y6dDuL73Vxo
@@ -135,7 +136,6 @@ clash详细教程：https://youtu.be/HY5q2riVwRk
 FQ方式科普：https://youtu.be/f9ohvZyQrmY
 
 
-
 国外网站工具合集导航
 -----------
 
@@ -143,7 +143,6 @@ FQ方式科普：https://youtu.be/f9ohvZyQrmY
 国外热门的网站推荐https://qiangwaikan.com/
 
 翻出去后，优秀的网站推荐https://10beasts.net/recommend/
-
 
 
 ----------------------------
@@ -169,6 +168,10 @@ APKPure应用商店,下载全球app的安卓APK，https://apkpure.com/cn/
 微软邮箱，免手机号，上网冲浪必备！https://outlook.live.com/mail/0/
 
 Tutanota开源、端到端加密邮箱https://tutanota.com/
+
+一次性邮箱https://temp-mail.org/zh
+
+火币网-币价https://www.huobi.com/zh-cn/exchange/btc_usdt
 
 
 YouTube频道推荐：
