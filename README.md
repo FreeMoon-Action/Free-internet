@@ -215,7 +215,7 @@ P站https://cn.pornhub.com/
 
 GHS图片https://asiansister.com/tag.php?tag=hot
 
-JavDB番号库https://javdb.com/
+JavDB番号+成人数据库https://javdb.com/
 
 ----------------------------
 
