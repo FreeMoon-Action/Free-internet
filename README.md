@@ -76,6 +76,11 @@ https://github.com/XIU2/TrackersListCollection/blob/master/README-ZH.md
 机场推荐：
 -----------
 
+飞鸟云（按流量计费的机场，价格10元200G，15元400G，20元600G等等，不限时，限3设备）
+
+https://feiniaoyun.tk/#/register?code=OUO4ec5n
+
+
 魔戒（按流量计费的机场，推荐！价格1元10g，10元130g等等，不限制使用时间/人数/设备）
 
 https://mojie.me/#/register?code=vcGOwRe1
