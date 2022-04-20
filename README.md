@@ -1,10 +1,11 @@
 
 
 
-【肥宅快乐上网方案】 开心科学上网！
+【肥宅快乐上网方案】 开心上网-导航页！
 -----------
 
 （注意：本文章 在自动翻译的浏览器下，会显示不正常，请关掉自动翻译，或者使用Egde、Chrome浏览器打开）
+（本文为私人导航页，请不要在互联网传播，别给自己和别人带来麻烦。）
 
 ----------------------------
 
@@ -62,7 +63,7 @@ https://github.com/XIU2/TrackersListCollection/blob/master/README-ZH.md
 
 刷固件+FQ教程 https://youtu.be/jBaMRhda4Dk
 
-其它具体路由器设置教程，可以去YouTube上面搜索，有非常多中文教程，国内是没有这种教程的。
+其它具体路由器设置教程，在YouTube上面可以搜索，有非常多中文教程，国内没有。
 
 
 最终解决方法-软路由+OpenWrt，性能强大，功能丰富，拓展性强。需要买设备，且配置麻烦
@@ -73,7 +74,7 @@ https://github.com/XIU2/TrackersListCollection/blob/master/README-ZH.md
 
 ----------------------------
 
-机场推荐：
+机场链接：
 -----------
 
 飞鸟云（按流量计费的机场，价格10元200G，15元400G，20元600G等等，不限时，限3设备）
@@ -192,6 +193,9 @@ DIY Perks DIY大佬 https://www.youtube.com/c/DIYPerks/featured
 
 Sean的世界TV 泰国vlog https://www.youtube.com/channel/UCPmbIdXZzLDHNR0PejH0iEQ/videos
 
+保彪财经 https://www.youtube.com/channel/UC1J6VIutYbeZpLgL_j_AFoA
+
+
 未完待续...
 
 
@@ -219,9 +223,7 @@ JavDB番号库https://javdb.com/
 
 GitHub的个人导航页，方便收藏链接、查找检索、跨设备浏览等等。
 
-同时也收藏了现在主流、优秀的流程和工具，是怎样的，避免踩坑。
-
-如果有更好的内容和链接，可以点上面的issues（问题）推荐给我。
+并收藏了现在主流、优秀的流程和工具，是怎样的，避免踩坑。
 
 ----------------------------
 
