@@ -170,6 +170,8 @@ APKPure应用商店,下载全球app的安卓APK，https://apkpure.com/cn/
 
 自学英语推荐（罗塞塔石碑）：https://youtu.be/DTklFxLIcW8
 
+电子邮箱推荐https://qiangwaikan.com/best-email-provider/
+
 谷歌邮箱Gmail，全球上网冲浪必备！（注册谷歌号即可）https://mail.google.com/
 
 微软邮箱，免手机号，上网冲浪必备！https://outlook.live.com/mail/0/
