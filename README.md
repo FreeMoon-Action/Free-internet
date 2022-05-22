@@ -29,32 +29,32 @@
 
 - [节点测速工具](https://youtu.be/aSR6OuqtFdU)
 
-- [QB下载器 qBittorrent 增强版-下载_QT6_x64_setup.exe版本](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases)
+- [QB下载器 qBittorrent 增强版-下载_QT6_x64_setup.exe版本](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases)  
 [↑ 【QB下载器 订阅跟踪列表】(QB设置-地球logoBitTorrent下面勾选-粘贴Refetch-应用+确定_)](https://github.com/XIU2/TrackersListCollection/blob/master/README-ZH.md)
 
 ----------------------------
 
 ## 路由器
 
-- 入门级性价比路由器，红米AC2100路由器（咸鱼100元左右），刷老毛子固件，实现路由器上网，一劳永逸。缺点是家用路由器性能一般，延迟和带宽会有点影响，接近百兆但跑不满。
-[刷固件教程](https://www.bilibili.com/video/BV1HZ4y1P7A9)
-[刷固件+FQ教程](https://youtu.be/jBaMRhda4Dk)
-其它具体路由器设置教程，在YouTube搜索，有非常多中文教程，国内没有。
+- 入门级性价比路由器，红米AC2100路由器（咸鱼100元左右），刷老毛子固件，实现路由器上网，一劳永逸。缺点是家用路由器性能一般，延迟和带宽会有点影响，接近百兆但跑不满。  
+[刷固件教程](https://www.bilibili.com/video/BV1HZ4y1P7A9)  
+[刷固件+FQ教程](https://youtu.be/jBaMRhda4Dk)  
+其它具体路由器设置教程，在YouTube搜索，有非常多中文教程，国内没有。  
 
-- 最终解决方法：软路由+OpenWrt，性能强大，功能丰富，拓展性强。需要买设备，且配置麻烦
+- 最终解决方法：软路由+OpenWrt，性能强大，功能丰富，拓展性强。需要买设备，且配置麻烦  
 - 或者局域网网关模式，也可以实现同一个wifi下的设备上网，不过需要多一步设置手动代理。缺点是始终需要一台设备分享局域网代理。[教程链接](https://youtu.be/Y6dDuL73Vxo)
 
 ----------------------------
 
 ## 机场链接：
 
-- 魔戒（按流量计费的机场，推荐！价格1元10g，10元130g等等，不限制使用时间/人数/设备）
+- 魔戒（按流量计费的机场，推荐！价格1元10g，10元130g等等，不限制使用时间/人数/设备）  
 [链接https://mojie.me/#/register?code=vcGOwRe1](https://mojie.me/#/register?code=vcGOwRe1)
-- 飞鸟云（按流量计费的机场，价格10元200G，15元400G，20元600G等等，不限时，限3设备）
+- 飞鸟云（按流量计费的机场，价格10元200G，15元400G，20元600G等等，不限时，限3设备）  
 [链接https://feiniaoyun.tk/#/register?code=OUO4ec5n](https://feiniaoyun.tk/#/register?code=OUO4ec5n)
-- 速鹰666（入门版11.9元/100G/月，老牌机场）
+- 速鹰666（入门版11.9元/100G/月，老牌机场）  
 [链接https://suying222.net/auth/register?code=Nzib](https://suying222.net/auth/register?code=Nzib)
-- XIXI机场（入门版12.5元/100G/月，备选，不太推荐）
+- XIXI机场（入门版12.5元/100G/月，备选，不太推荐）  
 [链接https://xixi0001.com/auth/register?code=UWPs](https://xixi0001.com/auth/register?code=UWPs)
 
 ----------------------------
@@ -67,7 +67,7 @@
 - https://www.youneed.win/free-v2ray
 - https://lncn.org/
 
-- 临时FQ工具，轻量化clash，下载地址https://bulianglin.com/archives/easyclash.html
+- 临时FQ工具，轻量化clash，下载地址https://bulianglin.com/archives/easyclash.html  
 教程https://youtu.be/-I5T1G6NdKM
 
 ----------------------------
@@ -166,7 +166,7 @@
 
 ## 为什么要创建这个GitHub文章？ 有什么用？
 
-GitHub的个人导航页，方便收藏链接、查找检索、跨设备浏览等等。  
+GitHub的个人导航页，方便收藏链接、查找检索、跨设备浏览等等。    
 并收藏了现在主流、优秀的流程和工具，是怎样的，避免踩坑。
 
 
