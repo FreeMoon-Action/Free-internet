@@ -109,12 +109,12 @@
 ## 插件工具推荐
 
 - [YouTube 自动翻译、双字幕](https://chrome.google.com/webstore/detail/youtube-dual-subtitles/hkbdddpiemdeibjoknnofflfgbgnebcm)
-- [视频倍速播放，适用于90%网站中的视频](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk)
+- [视频倍速播放，适用于90%网站中的视频](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk)  
 [备用下载链接Link，旧版](https://chrome.zzzmh.cn/info?token=nffaoalbilbmmfgbnbgppjihopabppdk)
 - [油猴、暴力猴-脚本管理器](https://chrome.zzzmh.cn/info?token=jinjaccalgkegednnccohejagnlnfdag)
-[暴力猴官网](https://violentmonkey.github.io/) ， [油猴官网](https://www.tampermonkey.net/)
+[【暴力猴官网】](https://violentmonkey.github.io/) |  [【油猴官网】](https://www.tampermonkey.net/)
 - [油猴脚本下载站](https://greasyfork.org/zh-CN/scripts) 配合搜索，可以很方便找到各种优秀的插件
-  - ### 油猴插件推荐
+  **油猴插件推荐**
     - [隐藏Google+YouTube广告（推荐）](https://greasyfork.org/zh-CN/scripts/38182-hide-youtube-google-ad)
     - [YouTube视频下载](https://greasyfork.org/zh-CN/scripts/369400-local-youtube-downloader)
     - [翻译机，翻译国外常见网站](https://greasyfork.org/zh-CN/scripts/378277-%E7%BF%BB%E8%AF%91%E6%9C%BA)
