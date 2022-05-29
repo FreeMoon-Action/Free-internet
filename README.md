@@ -20,7 +20,10 @@
 
 - [SSR（不推荐）](https://github.com/githubvpn007/v2rayNvpn/blob/main/ssr_windows.md)
 
-> [怎么选？ 选哪个？](https://github.com/githubvpn007/proxy)
+- 轻量化clash，临时FQ工具，[发布网站链接](https://bulianglin.com/archives/easyclash.html)  
+[使用教程视频](https://youtu.be/-I5T1G6NdKM)
+
+> [怎么选？ 选哪个？各种的常见FQ工具介绍和推荐](https://github.com/githubvpn007/proxy)  
 > (苹果手机系统 参考机场给出的解决办法)
 
 ----------------------------
@@ -57,6 +60,10 @@
 - XIXI机场（入门版12.5元/100G/月，备选，不太推荐）  
 [链接https://xixi0001.com/auth/register?code=UWPs](https://xixi0001.com/auth/register?code=UWPs)
 
+> **提醒一下：上网流不流畅、卡不卡顿、网速、延迟等等的这些因素，是由机场的优劣决定的，**  
+> **想要良好的上网体验，请自行寻找优秀的机场。**  
+
+
 ----------------------------
 
 
@@ -67,8 +74,6 @@
 - https://www.youneed.win/free-v2ray
 - https://lncn.org/
 
-- 临时FQ工具，轻量化clash，下载地址https://bulianglin.com/archives/easyclash.html  
-教程https://youtu.be/-I5T1G6NdKM
 
 ----------------------------
 
