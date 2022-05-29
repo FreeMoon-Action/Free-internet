@@ -20,8 +20,7 @@
 
 - [SSR（不推荐）](https://github.com/githubvpn007/v2rayNvpn/blob/main/ssr_windows.md)
 
-- 轻量化clash，临时FQ工具，[发布网站链接](https://bulianglin.com/archives/easyclash.html)  
-[使用教程视频](https://youtu.be/-I5T1G6NdKM)
+- [轻量化clash，临时FQ工具，【发布链接】](https://bulianglin.com/archives/easyclash.html)，[【使用教程视频】](https://youtu.be/-I5T1G6NdKM)  
 
 > [怎么选？ 选哪个？各种的常见FQ工具介绍和推荐](https://github.com/githubvpn007/proxy)  
 > (苹果手机系统 参考机场给出的解决办法)
