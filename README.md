@@ -112,8 +112,8 @@
 - [视频倍速播放，适用于90%网站中的视频](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk)  
 [备用下载链接Link，旧版](https://chrome.zzzmh.cn/info?token=nffaoalbilbmmfgbnbgppjihopabppdk)
 - [油猴、暴力猴-脚本管理器](https://chrome.zzzmh.cn/info?token=jinjaccalgkegednnccohejagnlnfdag)
-[【暴力猴官网】](https://violentmonkey.github.io/) |  [【油猴官网】](https://www.tampermonkey.net/)
-- [油猴脚本下载站](https://greasyfork.org/zh-CN/scripts) 配合搜索，可以很方便找到各种优秀的插件
+[【暴力猴官网】](https://violentmonkey.github.io/)  |   [【油猴官网】](https://www.tampermonkey.net/)
+- [油猴脚本下载站](https://greasyfork.org/zh-CN/scripts) 配合搜索，可以很方便找到各种优秀的插件  
   **油猴插件推荐**
     - [隐藏Google+YouTube广告（推荐）](https://greasyfork.org/zh-CN/scripts/38182-hide-youtube-google-ad)
     - [YouTube视频下载](https://greasyfork.org/zh-CN/scripts/369400-local-youtube-downloader)
@@ -125,27 +125,16 @@
 ## 常用站点/推荐
 
 - [YouTube全球最大的视频网站](https://www.youtube.com/)
-
 - [Telegram电报，国外常用的聊天工具，类似QQ微信](https://telegram.org/)
-
 - [全球上网测速](https://fast.com/zh/tw/)
-
 - [1337X 搜种子电影音乐等等](https://www.1377x.to/)
-
 - [APKPure应用商店,下载全球app的安卓APK](https://apkpure.com/cn/)
-
 - [自学英语推荐（罗塞塔石碑）](https://youtu.be/DTklFxLIcW8)
-
 - [电子邮箱推荐](https://qiangwaikan.com/best-email-provider/)
-
 - [谷歌邮箱Gmail，全球上网冲浪必备！（注册谷歌号即可）](https://mail.google.com/)
-
 - [微软邮箱，免手机号，上网冲浪必备！](https://outlook.live.com/mail/0/)
-
 - [Tutanota邮箱 开源、端到端加密邮箱](https://tutanota.com/)
-
 - [一次性邮箱](https://temp-mail.org/zh)
-
 - [火币网（虚拟货币价格参考）](https://www.huobi.com/zh-cn/exchange/btc_usdt)
 
 
