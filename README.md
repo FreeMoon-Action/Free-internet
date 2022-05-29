@@ -34,9 +34,9 @@
 
 ----------------------------
 
-## 路由器
+## 路由器FQ
 
-- 入门级性价比路由器，红米AC2100路由器（咸鱼100元左右），刷老毛子固件，实现路由器上网，一劳永逸。缺点是家用路由器性能一般，延迟和带宽会有点影响，接近百兆但跑不满。  
+- 入门级性价比路由器，红米AC2100路由器（咸鱼100元左右），刷老毛子固件，实现路由器FQ上网，一劳永逸。缺点是家用路由器性能一般，延迟和带宽会有点影响，科学速度接近百兆但跑不满。  
 [刷固件教程](https://www.bilibili.com/video/BV1HZ4y1P7A9)  
 [刷固件+FQ教程](https://youtu.be/jBaMRhda4Dk)  
 其它具体路由器设置教程，在YouTube搜索，有非常多中文教程，国内没有。  
@@ -62,7 +62,7 @@
 
 ## 每日更新的免费节点：（谨慎使用，注意隐私）
 
-- [破解资源君的免费节点](https://github.com/pojiezhiyuanjun/freev2)（Ctrl+F搜索当天日期，比如1212.zip）
+- [破解资源君的免费节点](https://github.com/pojiezhiyuanjun/freev2)（Ctrl+F搜索最近日期，比如1212，或搜hours ago，即今天，或搜yesterday，即昨天）
 - https://github.com/UmeLabs/node.umelabs.dev
 - https://www.youneed.win/free-v2ray
 - https://lncn.org/
@@ -141,18 +141,12 @@
 ## YouTube频道推荐：
 
 - [跟洋妞学英语 Jacki](https://www.youtube.com/c/JackiesEnglishClass/featured)
-
 - [老梁故事会](https://www.youtube.com/channel/UCr_F4Y9iboUKlg_ZPm4jkVQ)
-
 - [DIY Perks DIY大佬](https://www.youtube.com/c/DIYPerks/featured)
-
 - [老高與小茉](https://www.youtube.com/channel/UCMUnInmOkrWN4gof9KlhNmQ/featured)
-
 - [Sean的世界TV 泰国vlog](https://www.youtube.com/channel/UCPmbIdXZzLDHNR0PejH0iEQ/videos)
-
 - [保彪财经](https://www.youtube.com/channel/UC1J6VIutYbeZpLgL_j_AFoA)
-
-- 未完待续...
+- 未完待续......
 
 ## LSP导航！
 
@@ -162,9 +156,7 @@
 ## GHS网站
 
 - [P站](https://cn.pornhub.com/)
-
 - [GHS图片](https://asiansister.com/tag.php?tag=hot)
-
 - [JavDB番号+成人数据库](https://javdb.com/)
 
 ----------------------------
