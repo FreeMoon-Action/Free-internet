@@ -43,16 +43,16 @@
 [刷固件+FQ教程](https://youtu.be/jBaMRhda4Dk)  
 其它具体路由器设置教程，在YouTube搜索，有非常多中文教程，国内没有。  
 
-- 最终解决方法：软路由+OpenWrt，性能强大，功能丰富，拓展性强。需要买设备，且配置麻烦  
+- 最终解决方法：软路由+OpenWrt，性能强大，功能丰富，拓展性强。需要买设备，且配置稍微繁琐  
 - 或者局域网网关模式，也可以实现同一个wifi下的设备上网，不过需要多一步设置手动代理。缺点是始终需要一台设备分享局域网代理。[教程链接](https://youtu.be/Y6dDuL73Vxo)
 
 ----------------------------
 
 ## 机场链接：
 
-- 魔戒（按流量计费的机场，推荐！价格1元10g，10元130g等等，不限制使用时间/人数/设备）  
+- 魔戒（按流量计费的机场，价格1元10g，10元130g等等，不限制使用时间/人数/设备）  
 [链接https://mojie.me/#/register?code=vcGOwRe1](https://mojie.me/#/register?code=vcGOwRe1)
-- 飞鸟云（按流量计费的机场，价格10元200G，15元400G，20元600G等等，不限时，限3设备）  
+- 飞鸟云（按流量计费的机场，价格10元200G，15元400G，20元600G等等，不限时，限3设备，推荐）  
 [链接https://feiniaoyun.tk/#/register?code=OUO4ec5n](https://feiniaoyun.tk/#/register?code=OUO4ec5n)
 - 速鹰666（入门版11.9元/100G/月，老牌机场）  
 [链接https://suying222.net/auth/register?code=Nzib](https://suying222.net/auth/register?code=Nzib)
@@ -66,30 +66,33 @@
 ----------------------------
 
 
-## 每日更新的免费节点：（谨慎使用，注意隐私）
+## 每日更新的免费机场节点：（谨慎使用，注意隐私）
 
-- [破解资源君的免费节点](https://github.com/pojiezhiyuanjun/freev2)（Ctrl+F搜索最近日期，比如1212，或搜hours ago，即今天，或搜yesterday，即昨天）
-- https://github.com/UmeLabs/node.umelabs.dev
-- https://www.youneed.win/free-v2ray
-- https://lncn.org/
-
+- [YouTuber破解资源君的免费节点](https://github.com/pojiezhiyuanjun/freev2)（Ctrl+F搜索最近日期，比如1212，或搜hours ago，即今天，或搜yesterday，即昨天）
+- [免费V2Ray - 放牧的风](https://www.youneed.win/free-v2ray)
+- [免费节点 - Lncn.org](https://lncn.org/)
+- [蚂蚁VPN](https://ant.aff004.xyz/) 独立付费软件，但有免费试用流量，建议用免费流量翻出去，方便买机场，独立的程序不建议使用。
+- 
+> 谨慎使用，注意隐私。
 
 ----------------------------
 
 ## 电影、字幕、电视剧、影视
 
-- [破解资源君的在线电影网站推荐](https://github.com/pojiezhiyuanjun/freemovie/wiki)
+- [聚BT - 在线影视板块 - 合集导航](https://jubt.fun/cn/index.html#在线影视)
+- [破解资源君的在线电影网站推荐 - 合集推荐](https://github.com/pojiezhiyuanjun/freemovie/wiki)
+- 以下为个人推荐，均为磁力
 - [凌云（电影磁力下载）](www.lingyun.tv) 资源丰富
-- [片库小号](https://www.btnull.re) 资源丰富,但要登录
+- [片库小号](https://www.btnull.re) 片库被404之后的备用站点，资源丰富,但要登录
 - [mp4电影](www.domp4.cc) 资源一般
-- [迅雷电影天堂](https://www.xl720.com)
+- [迅雷电影天堂](https://www.xl720.com) 好像还行，但资源容量偏小
 - [字幕库2](https://zimuku.org)
 - [字幕库3](https://zmk.pw/)
 - [射手网[伪]](secure.assrt.net) 字幕网站
 
 ----------------------------
 
-## 教程搜集：
+## 一些教程搜集：
 
 - [clash简单教程](https://youtu.be/9Ice-qMePQk)
 - [clash详细教程](https://youtu.be/HY5q2riVwRk)
@@ -110,19 +113,23 @@
 
 ---
 
-## 插件工具推荐
+## 浏览器插件工具推荐
 
+- 浏览器推荐使用自带的Edge浏览器、谷歌Chrome浏览器、国内的百分浏览器。其它360浏览器等等的都不推荐使用，浏览的网址都会被云检测。
+- 以下为浏览器插件使用推荐
+- [极简插件 - 插件导航页](https://chrome.zzzmh.cn/#/extension)
 - [YouTube 自动翻译、双字幕](https://chrome.google.com/webstore/detail/youtube-dual-subtitles/hkbdddpiemdeibjoknnofflfgbgnebcm)
 - [视频倍速播放，适用于90%网站中的视频](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk)  
-[备用下载链接Link，旧版](https://chrome.zzzmh.cn/info?token=nffaoalbilbmmfgbnbgppjihopabppdk)
-- [油猴、暴力猴-脚本管理器](https://chrome.zzzmh.cn/info?token=jinjaccalgkegednnccohejagnlnfdag)
-[【暴力猴官网】](https://violentmonkey.github.io/)  |   [【油猴官网】](https://www.tampermonkey.net/)
+[（备用下载链接Link，旧版）](https://chrome.zzzmh.cn/info?token=nffaoalbilbmmfgbnbgppjihopabppdk)
+- [推荐：暴力猴-脚本管理器](https://chrome.zzzmh.cn/info?token=jinjaccalgkegednnccohejagnlnfdag) 油猴、暴力猴本质是一个东西，但个人觉得暴力猴更好用一些，方便管理插件。  
+[【暴力猴官网】](https://violentmonkey.github.io/) - [【油猴官网】](https://www.tampermonkey.net/)
 - [油猴脚本下载站](https://greasyfork.org/zh-CN/scripts) 配合搜索，可以很方便找到各种优秀的插件  
   **油猴插件推荐**
     - [隐藏Google+YouTube广告（推荐）](https://greasyfork.org/zh-CN/scripts/38182-hide-youtube-google-ad)
     - [YouTube视频下载](https://greasyfork.org/zh-CN/scripts/369400-local-youtube-downloader)
     - [翻译机，翻译国外常见网站](https://greasyfork.org/zh-CN/scripts/378277-%E7%BF%BB%E8%AF%91%E6%9C%BA)
 
+> 未完待续...
 
 ----------------
 
@@ -130,7 +137,7 @@
 
 - [YouTube全球最大的视频网站](https://www.youtube.com/)
 - [Telegram电报，国外常用的聊天工具，类似QQ微信](https://telegram.org/)
-- [全球上网测速](https://fast.com/zh/tw/)
+- [全球上网测速](https://fast.com/zh/tw/) 测机场速度
 - [1337X 搜种子电影音乐等等](https://www.1377x.to/)
 - [APKPure应用商店,下载全球app的安卓APK](https://apkpure.com/cn/)
 - [自学英语推荐（罗塞塔石碑）](https://youtu.be/DTklFxLIcW8)
