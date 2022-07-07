@@ -12,12 +12,12 @@
 
 ## FQ软件工具：
 
-- [Win电脑PC端：clash, 俗称小猫咪](https://github.com/Fndroid/clash_for_windows_pkg/releases) https://github.com/Fndroid/clash_for_windows_pkg/releases  
+- [Win电脑PC端：clash, 俗称小猫咪。https://github.com/Fndroid/clash_for_windows_pkg/releases](https://github.com/Fndroid/clash_for_windows_pkg/releases)  
 建议下载便携版，解压即可使用 Clash.for.Windows-版本号-win.7z  
 更新clash也是同理，下载打开压缩包，直接覆盖原文件既可，数据不丢失，但需重新下同版本汉化包
 （clash支持Mac 和Linux）  
 
-- [clash汉化，clash默认语言为英语，可下载汉化版](https://github.com/ender-zhao/Clash-for-Windows_Chinese)
+- [clash汉化，clash默认语言为英语，可下载汉化版](https://github.com/ender-zhao/Clash-for-Windows_Chinese)  
 找到跟clash相同版本号下，下载app.7z后解压出app.asar文件，然后复制到clash目录里的resources文件夹，替换掉原app.asar 重启clash即可
 
 - [clash安卓版](https://github.com/Kr328/ClashForAndroid/releases)
@@ -77,7 +77,7 @@
 - [YouTuber破解资源君的免费节点](https://github.com/pojiezhiyuanjun/freev2)（Ctrl+F搜索最近日期，比如1212，或搜hours ago，即今天，或搜yesterday，即昨天）
 - [免费V2Ray - 放牧的风](https://www.youneed.win/free-v2ray)
 - [免费节点 - Lncn.org](https://lncn.org/)
-- [蚂蚁VPN](https://ant.aff004.xyz/) 独立付费软件，但有免费试用流量，建议用免费流量翻出去，方便买机场，独立的程序不建议使用。
+- [蚂蚁VPN](https://ant.aff004.xyz/) 独立的付费软件，但有免费试用流量，这个适合用免费流量翻出去，方便找机场和买机场，但是独立的FQ软件不建议使用。
 - 
 > 谨慎使用，注意隐私。
 
