@@ -18,7 +18,6 @@
 （clash支持Mac 和Linux）  
 
 - [clash汉化，clash默认语言为英语，可下载汉化版](https://github.com/ender-zhao/Clash-for-Windows_Chinese)
-
 找到跟clash相同版本号下，下载app.7z后解压出app.asar文件，然后复制到clash目录里的resources文件夹，替换掉原app.asar 重启clash即可
 
 - [clash安卓版](https://github.com/Kr328/ClashForAndroid/releases)
