@@ -12,7 +12,14 @@
 
 ## FQ软件工具：
 
-- [clash汉化版 （推荐）](https://github.com/ender-zhao/Clash-for-Windows_Chinese)
+- [Win电脑PC端：clash, 俗称小猫咪](https://github.com/Fndroid/clash_for_windows_pkg/releases) https://github.com/Fndroid/clash_for_windows_pkg/releases  
+建议下载便携版，解压即可使用 Clash.for.Windows-版本号-win.7z  
+更新clash也是同理，下载打开压缩包，直接覆盖原文件既可，数据不丢失，但需重新下同版本汉化包
+（clash支持Mac 和Linux）  
+
+- [clash汉化，clash默认语言为英语，可下载汉化版](https://github.com/ender-zhao/Clash-for-Windows_Chinese)
+
+找到跟clash相同版本号下，下载app.7z后解压出app.asar文件，然后复制到clash目录里的resources文件夹，替换掉原app.asar 重启clash即可
 
 - [clash安卓版](https://github.com/Kr328/ClashForAndroid/releases)
 
@@ -23,7 +30,7 @@
 - [轻量化clash，临时FQ工具，【发布链接】](https://bulianglin.com/archives/easyclash.html)，[【使用教程视频】](https://youtu.be/-I5T1G6NdKM)  
 
 > [怎么选？ 选哪个？各种的常见FQ工具介绍和推荐](https://github.com/githubvpn007/proxy)  
-> (苹果手机系统 参考机场给出的解决办法)
+> (苹果手机ios系统，参考机场给出的解决办法，一般为小火箭ShadowRocket)
 
 ----------------------------
 
