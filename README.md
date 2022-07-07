@@ -12,15 +12,15 @@
 
 ## FQ软件工具：
 
-- [Win电脑PC端：clash, 俗称小猫咪。https://github.com/Fndroid/clash_for_windows_pkg/releases](https://github.com/Fndroid/clash_for_windows_pkg/releases)  
-建议下载便携版，解压即可使用 Clash.for.Windows-版本号-win.7z  
-更新clash也是同理，下载打开压缩包，直接覆盖原文件既可，数据不丢失，但需重新下同版本汉化包
+- [【Win电脑PC端：clash, 俗称小猫咪】https://github.com/Fndroid/clash_for_windows_pkg/releases](https://github.com/Fndroid/clash_for_windows_pkg/releases)  
+建议下载便携版，解压即可使用，便携版名称为 Clash.for.Windows-版本号-win.7z  
+更新新版clash：下载打开压缩包，直接覆盖原文件既可，数据不丢失，但需重新下同版本汉化包
 （clash支持Mac 和Linux）  
 
-- [clash汉化，clash默认语言为英语，可下载汉化版](https://github.com/ender-zhao/Clash-for-Windows_Chinese)  
-找到跟clash相同版本号下，下载app.7z后解压出app.asar文件，然后复制到clash目录里的resources文件夹，替换掉原app.asar 重启clash即可
+- [【clash汉化，clash默认语言为英语，可下载汉化版】](https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases)  
+找到跟clash相同版本号的汉化包，下载app.7z，解压出app.asar文件，复制到clash目录里的resources文件夹，替换掉原app.asar，最后重启clash即可
 
-- [clash安卓版](https://github.com/Kr328/ClashForAndroid/releases)
+- [【clash安卓版 下载高级通用版 premium-universal-release.apk】](https://github.com/Kr328/ClashForAndroid/releases)
 
 - [v2rayN (下载+教程)](https://github.com/githubvpn007/v2rayNvpn/blob/main/V2rayN_Windows.md)
 
