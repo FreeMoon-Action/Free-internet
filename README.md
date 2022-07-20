@@ -153,7 +153,8 @@
 - [Tutanota邮箱 开源、端到端加密邮箱](https://tutanota.com/)
 - [一次性邮箱](https://temp-mail.org/zh)
 - [火币网（虚拟货币价格参考）](https://www.huobi.com/zh-cn/exchange/btc_usdt)
-
+- 互联网时光机 https://web.archive.org/
+- 测试你是什么政治成分的网站 https://cnvalues.github.io/index.html
 
 ## YouTube频道推荐：
 
