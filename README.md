@@ -56,13 +56,16 @@
 
 ## 机场链接：
 
-- 魔戒（按流量计费的机场，价格1元10g，10元130g等等，不限制使用时间/人数/设备）  
+- XFSS养鸡场（月付1元17G/7元150G，计流量不限时10元120G/20元250G）口碑不错，推荐  
+[链接https://xf.gl/#/register?code=08Rgd5r7](https://xf.gl/#/register?code=08Rgd5r7)
+
+- ~~魔戒（按流量计费的机场，价格1元10g，10元130g等等，不限制使用时间/人数/设备）红了一片，暂时不推荐~~  
 [链接https://mojie.me/#/register?code=vcGOwRe1](https://mojie.me/#/register?code=vcGOwRe1)
-- 飞鸟云（按流量计费的机场，价格10元200G，15元400G，20元600G等等，不限时，限3设备，推荐）  
+- ~~飞鸟云（按流量计费的机场，价格10元200G，15元400G，20元600G等等，不限时，限3设备）红了一片，暂时不推荐~~  
 [链接https://feiniaoyun.tk/#/register?code=OUO4ec5n](https://feiniaoyun.tk/#/register?code=OUO4ec5n)
 - 速鹰666（入门版11.9元/100G/月，老牌机场）  
 [链接https://suying222.net/auth/register?code=Nzib](https://suying222.net/auth/register?code=Nzib)
-- XIXI机场（入门版12.5元/100G/月，备选，不太推荐）  
+- ~~XIXI机场（入门版12.5元/100G/月，备选，不太推荐）~~  
 [链接https://xixi0001.com/auth/register?code=UWPs](https://xixi0001.com/auth/register?code=UWPs)
 
 > **提醒一下：上网流不流畅、卡不卡顿、网速、延迟等等的这些因素，是由机场的优劣决定的，**  
