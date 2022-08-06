@@ -80,9 +80,14 @@
 - [YouTuber破解资源君的免费节点](https://github.com/pojiezhiyuanjun/freev2)（Ctrl+F搜索最近日期，比如1212，或搜hours ago，即今天，或搜yesterday，即昨天）
 - [免费V2Ray - 放牧的风](https://www.youneed.win/free-v2ray)
 - [免费节点 - Lncn.org](https://lncn.org/)
-- [蚂蚁VPN](https://ant.aff004.xyz/) 独立的付费软件，但有免费试用流量，这个适合用免费流量翻出去，方便找机场和买机场，但是独立的FQ软件不建议使用。
+- [蚂蚁VPN](https://ant.aff004.xyz/) 独立的付费软件，但有免费试用的少量流量，这个适合用免费流量翻出去找机场、买机场，但这种独立的软件不推荐使用。
 - 
 > 谨慎使用，注意隐私。
+
+## 机场测试、评测、推荐网站
+
+- [毒药ss https://www.duyaoss.com/](https://www.duyaoss.com/)  
+- [性价比机场推荐 https://www.duangks.com/4.html](https://www.duangks.com/4.html)
 
 ----------------------------
 
