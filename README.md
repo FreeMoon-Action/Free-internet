@@ -56,13 +56,12 @@
 
 ## 机场链接：
 
-- XFSS养鸡场（月付1元17G/7元150G，计流量不限时10元120G/20元250G）口碑不错，推荐  
+- XFSS养鸡场（月付1元17G/7元150G，计流量不限时10元120G/20元250G等等）口碑不错，推荐  
 [链接https://xf.gl/#/register?code=08Rgd5r7](https://xf.gl/#/register?code=08Rgd5r7)
-
+- 飞鸟云（按流量计费的机场，价格10元200G，15元400G，20元600G等等，不限时，限3设备）  
+[链接https://feiniaoyun.tk/#/register?code=OUO4ec5n](https://feiniaoyun.tk/#/register?code=OUO4ec5n)
 - ~~魔戒（按流量计费的机场，价格1元10g，10元130g等等，不限制使用时间/人数/设备）红了一片，暂时不推荐~~  
 [链接https://mojie.me/#/register?code=vcGOwRe1](https://mojie.me/#/register?code=vcGOwRe1)
-- ~~飞鸟云（按流量计费的机场，价格10元200G，15元400G，20元600G等等，不限时，限3设备）红了一片，暂时不推荐~~  
-[链接https://feiniaoyun.tk/#/register?code=OUO4ec5n](https://feiniaoyun.tk/#/register?code=OUO4ec5n)
 - 速鹰666（入门版11.9元/100G/月，老牌机场）  
 [链接https://suying222.net/auth/register?code=Nzib](https://suying222.net/auth/register?code=Nzib)
 - ~~XIXI机场（入门版12.5元/100G/月，备选，不太推荐）~~  
@@ -196,5 +195,8 @@ GitHub的个人导航页，方便收藏链接、查找检索、跨设备浏览�
 > （注意：本文章 在自动翻译的浏览器下，会显示不正常，要关掉自动翻译，或者使用Egde、Chrome浏览器打开）
 
 ---
+
+2022年8月19日更新
+
 
 
