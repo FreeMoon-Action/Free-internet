@@ -16,6 +16,7 @@
 建议下载便携版，解压即可使用，便携版名称为 Clash.for.Windows-版本号-win.7z  
 更新新版clash：下载打开压缩包，直接覆盖原文件既可，数据不丢失，但需重新下同版本汉化包
 （clash支持Mac 和Linux）  
+目前已知不退出clash 再关机的情况下，下次开机将会无法联网，解决办法是启动clash再关闭，避免麻烦尽量关机前退出clash。  
 
 - [【clash汉化，clash默认语言为英语，可下载汉化版】](https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases)  
 找到跟clash相同版本号的汉化包，下载app.7z，解压出app.asar文件，复制到clash目录里的resources文件夹，替换掉原app.asar，最后重启clash即可
@@ -28,8 +29,10 @@
 
 - [轻量化clash，临时FQ工具，【发布链接】](https://bulianglin.com/archives/easyclash.html)，[【使用教程视频】](https://youtu.be/-I5T1G6NdKM)  
 
+- [Netch 游戏加速工具, 使用节点代替网游加速器（视频介绍）](https://youtu.be/M-G977nQNhc) - [Netch下载地址 (需要NET库前提)](https://github.com/NetchX/Netch/releases)
+
 > [怎么选？ 选哪个？各种的常见FQ工具介绍和推荐](https://github.com/githubvpn007/proxy)  
-> (苹果手机ios系统，参考机场给出的解决办法，一般为小火箭ShadowRocket)
+> (苹果手机ios系统，参考机场给出的解决办法，一般为小火箭ShadowRocket)  
 
 ----------------------------
 
@@ -196,7 +199,10 @@ GitHub的个人导航页，方便收藏链接、查找检索、跨设备浏览�
 
 ---
 
-2022年8月19日更新
+更新
+2022年8月20日
+
+
 
 
 
