@@ -165,6 +165,7 @@
 - [火币网（虚拟货币价格参考）](https://www.huobi.com/zh-cn/exchange/btc_usdt)
 - 互联网时光机 https://web.archive.org/
 - 测试你是什么政治成分的网站 https://cnvalues.github.io/index.html
+- 互联网综合论坛帖子Reddit https://www.reddit.com/
 
 ## YouTube频道推荐：
 
