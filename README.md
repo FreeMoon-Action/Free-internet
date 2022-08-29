@@ -45,15 +45,16 @@
 
 ----------------------------
 
-## 路由器FQ
+## 路由器 科学上网
 
-- 入门级性价比路由器，红米AC2100路由器（咸鱼100元左右），刷老毛子固件，实现路由器FQ上网，一劳永逸。缺点是家用路由器性能一般，延迟和带宽会有点影响，科学速度接近百兆但跑不满。  
-[刷固件教程](https://www.bilibili.com/video/BV1HZ4y1P7A9)  
-[刷固件+FQ教程](https://youtu.be/jBaMRhda4Dk)  
+- 入门级：性价比路由器，红米AC2100路由器（咸鱼100元左右），刷OpenWrt 或老毛子固件，实现路由器FQ上网，一劳永逸。缺点是家用路由器性能一般，延迟和带宽会有点影响，科学速度接近百兆但跑不满。  
+[刷固件教程 B站](https://www.bilibili.com/video/BV1HZ4y1P7A9)  
+[刷固件+FQ教程 YouTube](https://youtu.be/jBaMRhda4Dk)  
 其它具体路由器设置教程，在YouTube搜索，有非常多中文教程，国内没有。  
 
-- 最终解决方法：软路由+OpenWrt，性能强大，功能丰富，拓展性强。需要买设备，且配置稍微繁琐  
-- 或者局域网网关模式，也可以实现同一个wifi下的设备上网，不过需要多一步设置手动代理。缺点是始终需要一台设备分享局域网代理。[教程链接](https://youtu.be/Y6dDuL73Vxo)
+- 网关模式：局域网网关模式，可以实现同一个wifi下的设备上网，缺点是每个设备第一次连接时，需要多一步设置手动代理、填ip填端口。始终需要一台手机、电脑等设备，时时刻刻分享局域网代理，只适合短时间内电脑给手机、平板、VR等设备，共享特殊网络，不太适合长时间使用。[教程链接](https://youtu.be/Y6dDuL73Vxo)
+- 最终解决方法：软路由刷OpenWrt 拨号上网，普通路由器做AP是目前比较主流的方便快捷性能强悍的方案，软路由性能强大，功能丰富，拓展性强。缺点是需要买设备，且配置稍微繁琐  
+
 
 ----------------------------
 
@@ -79,10 +80,11 @@
 
 ## 每日更新的免费机场节点：（谨慎使用，注意隐私）
 
-- [YouTuber破解资源君的免费节点](https://github.com/pojiezhiyuanjun/freev2)（Ctrl+F搜索最近日期，比如1212，或搜hours ago，即今天，或搜yesterday，即昨天）
+- [YouTuber破解资源君的免费节点](https://github.com/pojiezhiyuanjun/freev2)（Ctrl+F搜索最近日期，比如1212，或搜hours ago，即今天，或搜yesterday，即昨天）  
+- [YouTuber工具大师i 分享的免费节点视频合集](https://www.youtube.com/watch?v=A6wWr21erCw&list=PLUOjxdiWjGF6u-JV4f-eRxTFGsVHAshaR) (见评论区/简介描述)  
 - [免费V2Ray - 放牧的风](https://www.youneed.win/free-v2ray)
 - [免费节点 - Lncn.org](https://lncn.org/)
-- [蚂蚁VPN](https://ant.aff004.xyz/) 独立的付费软件，但有免费试用的少量流量，这个适合用免费流量翻出去找机场、买机场，但这种独立的软件不推荐使用。
+- [蚂蚁VPN](https://ant.aff004.xyz/) 独立的付费软件，但有免费试用的少量流量，这个适合用免费流量翻出去找机场、买机场，但这种独立的科学软件不推荐使用。
 - 
 > 谨慎使用，注意隐私。
 
@@ -133,7 +135,8 @@
 
 - 浏览器推荐使用自带的Edge浏览器、谷歌Chrome浏览器、国内的百分浏览器。其它360浏览器等等的都不推荐使用，浏览的网址都会被云检测。
 - 以下为浏览器插件使用推荐
-- [极简插件 - 插件导航页](https://chrome.zzzmh.cn/#/extension)
+- [Google 翻译插件](https://chrome.zzzmh.cn/info/aapbdbdomjkkjkaonfhkkikfgjllcleb)
+- [划词翻译](https://hcfy.app/)
 - [YouTube 自动翻译、双字幕](https://chrome.google.com/webstore/detail/youtube-dual-subtitles/hkbdddpiemdeibjoknnofflfgbgnebcm)
 - [视频倍速播放，适用于90%网站中的视频](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk)  
 [（备用下载链接Link，旧版）](https://chrome.zzzmh.cn/info?token=nffaoalbilbmmfgbnbgppjihopabppdk)
@@ -145,6 +148,8 @@
     - [YouTube视频下载](https://greasyfork.org/zh-CN/scripts/369400-local-youtube-downloader)
     - [翻译机，翻译国外常见网站](https://greasyfork.org/zh-CN/scripts/378277-%E7%BF%BB%E8%AF%91%E6%9C%BA)
 
+## [极简插件 - 插件导航页](https://chrome.zzzmh.cn/#/extension)
+
 > 未完待续...
 
 ----------------
@@ -152,7 +157,7 @@
 ## 常用站点/推荐
 
 - [YouTube全球最大的视频网站](https://www.youtube.com/)
-- [Telegram电报，国外常用的聊天工具，类似QQ微信](https://telegram.org/)
+- [Telegram电报，国外常用的聊天工具，类似QQ微信，但又吊打QQ微信](https://telegram.org/)
 - [全球上网测速](https://fast.com/zh/tw/) 测机场速度
 - [1337X 搜种子电影音乐等等](https://www.1377x.to/)
 - [APKPure应用商店,下载全球app的安卓APK](https://apkpure.com/cn/)
@@ -164,7 +169,6 @@
 - [一次性邮箱](https://temp-mail.org/zh)
 - [火币网（虚拟货币价格参考）](https://www.huobi.com/zh-cn/exchange/btc_usdt)
 - 互联网时光机 https://web.archive.org/
-- 测试你是什么政治成分的网站 https://cnvalues.github.io/index.html
 - 互联网综合论坛帖子Reddit https://www.reddit.com/
 
 ## YouTube频道推荐：
@@ -190,18 +194,18 @@
 
 ----------------------------
 
-## 为什么要创建这个GitHub文章？ 有什么用？
+## 这篇文章是什么？有什么用？
 
-GitHub的个人导航页，方便收藏链接、查找检索、跨设备浏览等等。    
-并收藏了现在主流、优秀的流程和工具，是怎样的，避免踩坑。
-
-
-> （注意：本文章 在自动翻译的浏览器下，会显示不正常，要关掉自动翻译，或者使用Egde、Chrome浏览器打开）
+我的GitHub的个人导航页，方便收藏链接、查找检索、跨设备浏览，仅用于朋友间交流。  
+并收藏了现在主流、优秀的流程和工具，是怎样的，避免踩坑和不必要的折腾。  
+请正确使用科学上网功能，查询论文资料，学习优秀的学术知识，和以及看美剧，学英语等等。  
+不要观看、参与那些弱智网站、内容，不要发表任何观点，作为成年人请遵守国内和国外的法律，谨言慎行。  
+**本文禁止在国内任何社交平台、论坛转载发表**  
 
 ---
 
-更新
-2022年8月20日
+> （注意：本文章 在自动翻译的浏览器下，会显示不正常，要关掉自动翻译，或者使用Egde、Chrome浏览器打开）  
+> 更新时间2022年8月29日
 
 
 
