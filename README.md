@@ -1,16 +1,18 @@
 # 【肥宅快乐上网方案】 开心上网-导航页！
 
-> （注意：本文章 在自动翻译的浏览器下，会显示不正常，请关掉自动翻译，或者使用Egde、Chrome浏览器打开）
->
-> （本文为私人导航页，请不要在互联网传播，别给自己和别人带来麻烦。）
 
 ----------------------------
 ## 前言
-- [ FQ.KX上网的介绍+导航](https://github.com/githubvpn007/v2rayNvpn)
-- 上网步骤：FQ软件+机场节点=起飞成功！
+- 本文为私人导航页，请不要在互联网传播，别给自己和别人带来麻烦。  
+- 翻墙，又名科学上网、魔法上网、高级上网、特殊网络、代理上网、外网、起飞等等，是违法行为，禁止在国内交流谈论，本文仅供海外华人、留学生等参考。  
+- 上网步骤：科学软件+机场节点=起飞成功！  
+
+（注意：本文章 在自动翻译的浏览器下，会显示不正常，请关掉自动翻译，或者使用Egde、Chrome浏览器打开）
+
+
 ----------------------------
 
-## FQ软件工具：
+## 科学软件工具：
 
 - [【Win电脑PC端：clash, 俗称小猫咪】https://github.com/Fndroid/clash_for_windows_pkg/releases](https://github.com/Fndroid/clash_for_windows_pkg/releases)  
 建议下载便携版，解压即可使用，便携版名称为 Clash.for.Windows-版本号-win.7z  
@@ -87,6 +89,7 @@
 - [蚂蚁VPN](https://ant.aff004.xyz/) 独立的付费软件，但有免费试用的少量流量，这个适合用免费流量翻出去找机场、买机场，但这种独立的科学软件不推荐使用。
 - 
 > 谨慎使用，注意隐私。
+> [【中国人安全上网指南1.0】上外网, 如何避免隐私泄露？](https://www.reddit.com/r/real_China_irl/comments/x34157/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%AE%89%E5%85%A8%E4%B8%8A%E7%BD%91%E6%8C%87%E5%8D%9710%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/)
 
 ## 机场测试、评测、推荐网站
 
@@ -119,8 +122,10 @@
 
 ## 出去之后 ！
 
+- [科学上网的介绍+导航](https://github.com/githubvpn007/v2rayNvpn)  
 - [什么是墙？](https://youtu.be/XKZM_AjCUr0)
 - [FQ方式科普](https://youtu.be/f9ohvZyQrmY)
+- [【中国人安全上网指南1.0】上外网如何避免 隐私泄露？](https://www.reddit.com/r/real_China_irl/comments/x34157/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%AE%89%E5%85%A8%E4%B8%8A%E7%BD%91%E6%8C%87%E5%8D%9710%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/)
 
 ---
 
@@ -158,18 +163,24 @@
 
 - [YouTube全球最大的视频网站](https://www.youtube.com/)
 - [Telegram电报，国外常用的聊天工具，类似QQ微信，但又吊打QQ微信](https://telegram.org/)
+- [Quora 国外版知乎, 在线问答网站](https://www.quora.com/)
+- [Reddit 娱乐、兴趣、社交、论坛、新闻等交流网站](https://www.reddit.com/)
+- [Discord 大型互联网社群、兴趣交流社区](https://discord.com/)
 - [全球上网测速](https://fast.com/zh/tw/) 测机场速度
 - [1337X 搜种子电影音乐等等](https://www.1377x.to/)
 - [APKPure应用商店,下载全球app的安卓APK](https://apkpure.com/cn/)
 - [自学英语推荐（罗塞塔石碑）](https://youtu.be/DTklFxLIcW8)
+- [火币网（虚拟货币价格参考）](https://www.huobi.com/zh-cn/exchange/btc_usdt)
+- 互联网时光机 https://web.archive.org/
+- 互联网综合论坛帖子Reddit https://www.reddit.com/
+
+## 邮箱相关
 - [电子邮箱推荐](https://qiangwaikan.com/best-email-provider/)
+-   
 - [谷歌邮箱Gmail，全球上网冲浪必备！（注册谷歌号即可）](https://mail.google.com/)
 - [微软邮箱，免手机号，上网冲浪必备！](https://outlook.live.com/mail/0/)
 - [Tutanota邮箱 开源、端到端加密邮箱](https://tutanota.com/)
 - [一次性邮箱](https://temp-mail.org/zh)
-- [火币网（虚拟货币价格参考）](https://www.huobi.com/zh-cn/exchange/btc_usdt)
-- 互联网时光机 https://web.archive.org/
-- 互联网综合论坛帖子Reddit https://www.reddit.com/
 
 ## YouTube频道推荐：
 
@@ -205,7 +216,7 @@
 ---
 
 > （注意：本文章 在自动翻译的浏览器下，会显示不正常，要关掉自动翻译，或者使用Egde、Chrome浏览器打开）  
-> 更新时间2022年8月29日
+> 更新时间2022年9月9日
 
 
 
