@@ -7,7 +7,7 @@
 - 翻墙，又名科学上网、魔法上网、高级上网、特殊网络、代理上网、外网、起飞等等，是违法行为，禁止在国内交流谈论，本文仅供海外华人、留学生等参考。  
 - 上网步骤：科学软件+机场节点=起飞成功！  
 
-（注意：本文章 在自动翻译的浏览器下，会显示不正常，请关掉自动翻译，或者使用Egde、Chrome浏览器打开）
+> 注意：本文章 在自动翻译的浏览器下，会显示不正常，请关掉自动翻译，或者使用Egde、Chrome浏览器打开
 
 
 ----------------------------
@@ -68,7 +68,7 @@
 [链接https://xf.gl/#/register?code=08Rgd5r7](https://xf.gl/#/register?code=08Rgd5r7)
 - 飞鸟云（按流量计费的机场，价格10元200G，15元400G，20元600G等等，不限时，限3设备）  
 [链接https://feiniaoyun.tk/#/register?code=OUO4ec5n](https://feiniaoyun.tk/#/register?code=OUO4ec5n)
-- ~~魔戒（按流量计费的机场，价格1元10g，10元130g等等，不限制使用时间/人数/设备）红了一片，暂时不推荐~~  
+- 魔戒（按流量计费的机场，价格1元10g，10元130g等等，不限制使用时间/人数/设备）  
 [链接https://mojie.me/#/register?code=vcGOwRe1](https://mojie.me/#/register?code=vcGOwRe1)
 - 速鹰666（入门版11.9元/100G/月，老牌机场）  
 [链接https://suying222.net/auth/register?code=Nzib](https://suying222.net/auth/register?code=Nzib)
@@ -77,6 +77,9 @@
 
 > **提醒一下：上网流不流畅、卡不卡顿、网速、延迟等等的这些因素，是由机场的优劣决定的，**  
 > **想要良好的上网体验，请自行寻找优秀的机场。**  
+>   
+> 另外，为了防止与世界失联，老司机们通常会备至少2个机场，以备不时之需。  
+
 
 
 ----------------------------
@@ -84,8 +87,8 @@
 
 ## 每日更新的免费机场节点：（谨慎使用，注意隐私）
 
-- [YouTuber破解资源君的免费节点](https://github.com/pojiezhiyuanjun/freev2)（Ctrl+F搜索最近日期，比如1212，或搜hours ago，即今天，或搜yesterday，即昨天）  
-- [YouTuber工具大师i 分享的免费节点视频合集](https://www.youtube.com/watch?v=A6wWr21erCw&list=PLUOjxdiWjGF6u-JV4f-eRxTFGsVHAshaR) (见评论区/简介描述)  
+- [YouTuber破解资源君的免费节点 GitHub](https://github.com/pojiezhiyuanjun/freev2)（Ctrl+F搜索最近日期，比如1212，或搜hours ago，即今天，或搜yesterday，即昨天）  
+- [YouTuber工具大师i 分享的免费节点视频合集 YT](https://www.youtube.com/watch?v=A6wWr21erCw&list=PLUOjxdiWjGF6u-JV4f-eRxTFGsVHAshaR) (见评论区/简介描述)  
 - [免费V2Ray - 放牧的风](https://www.youneed.win/free-v2ray)
 - [免费节点 - Lncn.org](https://lncn.org/)
 - [蚂蚁VPN](https://ant.aff004.xyz/) 独立的付费软件，但有免费试用的少量流量，这个适合用免费流量翻出去找机场、买机场，但这种独立的科学软件不推荐使用。
@@ -211,13 +214,14 @@
 
 我的GitHub的个人导航页，方便收藏链接、查找检索、跨设备浏览，仅用于朋友间交流。  
 并收藏了现在主流、优秀的流程和工具，是怎样的，避免踩坑和不必要的折腾。  
+  
 请正确使用科学上网功能，查询论文资料，学习优秀的学术知识，和以及看美剧，学英语等等。  
 不要观看、参与那些弱智网站、内容，不要发表任何观点，作为成年人请遵守国内和国外的法律，谨言慎行。  
 **本文禁止在国内任何社交平台、论坛转载发表**  
 
 ---
 
-> （注意：本文章 在自动翻译的浏览器下，会显示不正常，要关掉自动翻译，或者使用Egde、Chrome浏览器打开）  
+> 注意：本文章 在自动翻译的浏览器下，会显示不正常，要关掉自动翻译，或者使用Egde、Chrome浏览器打开  
 > 更新时间2022年9月9日
 
 
