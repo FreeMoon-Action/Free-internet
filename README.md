@@ -64,16 +64,11 @@
 
 ## 机场链接：
 
-- XFSS养鸡场（月付1元17G/7元150G，计流量不限时10元120G/20元250G等等）口碑不错，推荐  
-[链接https://xf.gl/#/register?code=08Rgd5r7](https://xf.gl/#/register?code=08Rgd5r7)
-- 飞鸟云（按流量计费的机场，10元200G，15元400G，20元600G等，不限时，限3设备）  
-[链接https](https://feiniaoyun.tk/#/register?code=OUO4ec5n)
-- 魔戒（按流量计费的机场，1元10g，10元130g等，不限制使用时间/人数/设备）  
-[官网链接](https://mojie.me/#/register?code=vcGOwRe1)
-- 速鹰666（入门版11.9元/100G/月，老牌机场）  
-[官网链接](https://suying222.net/auth/register?code=Nzib)
-- ~~XIXI机场（入门版12.5元/100G/月，备选，不太推荐）~~  
-[官网链接](https://xixi0001.com/auth/register?code=UWPs)
+- [XFSS养鸡场（月付1元17G/7元150G，计流量不限时10元120G/20元250G等等）口碑不错，推荐! ](https://xf.gl/#/register?code=08Rgd5r7)  
+- [飞鸟云（按流量计费的机场，10元200G，15元400G，20元600G等，不限时，限3设备）](https://feiniaoyun.tk/#/register?code=OUO4ec5n)   
+- [魔戒（按流量计费的机场，1元10g，10元130g等，不限制使用时间/人数/设备）](https://mojie.me/#/register?code=vcGOwRe1)  
+- [速鹰666（入门版11.9元/100G/月，老牌机场）](https://suying222.net/auth/register?code=Nzib)  
+- [~~XIXI机场（入门版12.5元/100G/月，备选，不太推荐）~~ ](https://xixi0001.com/auth/register?code=UWPs)  
 
 > **提醒一下：上网流不流畅、卡不卡顿、网速、延迟等等的这些因素，是由机场的优劣决定的，**  
 > **想要良好的上网体验，请自行寻找优秀的机场。**  
