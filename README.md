@@ -79,7 +79,8 @@
 
 ## 每日更新的免费机场节点：（谨慎使用，注意隐私）
 
-- [YouTuber破解资源君的免费节点 GitHub](https://github.com/pojiezhiyuanjun/freev2)（Ctrl+F搜索最近日期，比如1212，或搜hours ago，即今天，或搜yesterday，即昨天）  
+- [YouTuber破解资源君的免费节点 GitHub（人多不稳）](https://github.com/pojiezhiyuanjun/freev2)（Ctrl+F搜索最近日期，比如1212，或搜hours ago，即今天，或搜yesterday，即昨天）  
+（下zip解压出yml文件，或直接打开yml文件,RAW,复制到txt文本保存成yml文件，导入到clash里面）  
 - [YouTuber工具大师i 分享的免费节点视频合集 YT](https://www.youtube.com/watch?v=A6wWr21erCw&list=PLUOjxdiWjGF6u-JV4f-eRxTFGsVHAshaR) (见评论区/简介描述)  
 - [免费V2Ray - 放牧的风](https://www.youneed.win/free-v2ray)
 - [免费节点 - Lncn.org](https://lncn.org/)
@@ -149,6 +150,7 @@
     - [隐藏Google+YouTube广告（推荐）](https://greasyfork.org/zh-CN/scripts/38182-hide-youtube-google-ad)
     - [YouTube视频下载](https://greasyfork.org/zh-CN/scripts/369400-local-youtube-downloader)
     - [翻译机，翻译国外常见网站](https://greasyfork.org/zh-CN/scripts/378277-%E7%BF%BB%E8%AF%91%E6%9C%BA)
+    - [Github增强 下载加速](https://greasyfork.org/zh-CN/scripts/412245-github-%E5%A2%9E%E5%BC%BA-%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD)
 
 ## [极简插件 - 插件导航页](https://chrome.zzzmh.cn/#/extension)
 
