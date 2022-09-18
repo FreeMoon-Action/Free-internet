@@ -161,21 +161,22 @@
 ## 常用站点/推荐
 
 - [YouTube全球最大的视频网站](https://www.youtube.com/)
-- [Telegram电报，国外常用的聊天工具,开源。吊打QQ微信](https://telegram.org/) / [视频教程](https://youtu.be/zKSoN0ZHqso)
+- [Telegram电报，国外常用的聊天工具,开源。吊打QQ微信](https://telegram.org/) / [视频教程](https://youtu.be/zKSoN0ZHqso) / [TG电报频道搜索网](https://cn.tgstat.com/)  
 - [Quora 国外版知乎, 在线问答网站](https://www.quora.com/)
 - [Reddit 娱乐、兴趣、社交、论坛、新闻等交流网站](https://www.reddit.com/)
 - [Discord 大型互联网社群、兴趣交流社区](https://discord.com/)
 - [全球上网测速](https://fast.com/zh/tw/) 测机场速度
 - [1337X 搜种子电影音乐等等](https://www.1377x.to/)
-- [APKPure应用商店,下载全球app的安卓APK](https://apkpure.com/cn/)
 - [自学英语推荐（罗塞塔石碑）](https://youtu.be/DTklFxLIcW8)
 - [火币网（虚拟货币价格参考）](https://www.huobi.com/zh-cn/exchange/btc_usdt)
-- 互联网时光机 https://web.archive.org/
-- 互联网综合论坛帖子Reddit https://www.reddit.com/
+- [互联网时光机-查看某个网站，多年前的样子](https://web.archive.org/)
+- 
 - [接码网站_接收短信验证码, 临时手机号](https://jiemahao.com/)
 - [APK Downloader 下载谷歌商店Google Play里面的app应用，需填入app链接](https://apps.evozi.com/apk-downloader/)
-- [谷歌商店官网，安卓App应用](https://play.google.com/store/apps) 搭配上面↑ 的APK下载网站，可以下载安卓apk应用，解决国内手机没有谷歌商店，无法下载应用的问题。  
-- [9Apps 阿里出品的国际第三方 安卓应用和游戏商店](https://www.9apps.com/)
+- [Google Play 谷歌商店官网，安卓App应用官网](https://play.google.com/store/apps) 搭配上面↑ 的APK下载网站，可以下载安卓apk应用，解决国内手机没有谷歌商店，无法下载应用的问题。  
+- [APKPure应用商店,下载全球app的安卓APK](https://apkpure.com/cn/)
+- [9Apps 阿里出品的国际第三方 安卓应用和游戏商店（可下载国外应用软件）](https://www.9apps.com/)
+- 
 - [gamestatus 查询某一款游戏 是否被破解](https://gamestatus.info/)
 - [YouGlish - 输入英语单词或句子，搜索在YouTube 视频里的发音/读音](https://youglish.com)
 
