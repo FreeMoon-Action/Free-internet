@@ -172,6 +172,13 @@
 - [火币网（虚拟货币价格参考）](https://www.huobi.com/zh-cn/exchange/btc_usdt)
 - 互联网时光机 https://web.archive.org/
 - 互联网综合论坛帖子Reddit https://www.reddit.com/
+- [接码网站_接收短信验证码, 临时手机号](https://jiemahao.com/)
+- [APK Downloader 下载谷歌商店Google Play里面的app应用，需填入app链接](https://apps.evozi.com/apk-downloader/)
+- [谷歌商店官网，安卓App应用](https://play.google.com/store/apps) 搭配上面↑ 的APK下载网站，可以下载安卓apk应用，解决国内手机没有谷歌商店，无法下载应用的问题。  
+- [9Apps 阿里出品的国际第三方 安卓应用和游戏商店](https://www.9apps.com/)
+- [gamestatus 查询某一款游戏 是否被破解](https://gamestatus.info/)
+- [YouGlish - 输入英语单词或句子，搜索在YouTube 视频里的发音/读音](https://youglish.com)
+
 
 ## 邮箱相关
 - [电子邮箱推荐](https://qiangwaikan.com/best-email-provider/)
@@ -216,7 +223,7 @@
 ---
 
 > 注意：本文章 在自动翻译的浏览器下，会显示不正常，要关掉自动翻译，或者使用Egde、Chrome浏览器打开  
-> 更新时间2022年9月14日
+> 更新时间：  2022年9月19日
 
 
 
