@@ -18,11 +18,11 @@
 
 ## 科学软件工具：
 
-- [【Win电脑PC端：clash, 俗称小猫咪】https://github.com/Fndroid/clash_for_windows_pkg/releases](https://github.com/Fndroid/clash_for_windows_pkg/releases)  
+- [【Clash 电脑端】俗称小猫咪，推荐使用！ 支持Windows、Mac、Linux】https://github.com/Fndroid/clash_for_windows_pkg/releases](https://github.com/Fndroid/clash_for_windows_pkg/releases)  
 建议下载便携版，解压即可使用，便携版名称为 Clash.for.Windows-版本号-win.7z  
-更新新版clash：下载打开压缩包，直接覆盖原文件既可，数据不丢失，但需重新下同版本汉化包
-（clash支持Mac 和Linux）  
-目前已知不退出clash 再关机的情况下，下次开机将会无法联网，解决办法是启动clash再关闭，避免麻烦尽量关机前退出clash。  
+（Mac和Linux的Clash也叫Clash for windows，安装方式大同小异）  
+如何更新Clash？ 下载新版Clash压缩包打开解压，直接覆盖原文件既可，数据不丢失，但需重新下同版本的汉化包。  
+注意：目前已知的bug，在不退出关闭clash关机的情况下，下次开机将会无法联网，解决办法是启动clash再关闭能解决，但是避免麻烦尽量关机前退出clash。  
 
 - [【clash汉化，clash默认语言为英语，可下载汉化版】](https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases)  
 找到跟clash相同版本号的汉化包，下载app.7z，解压出app.asar文件，复制到clash目录里的resources文件夹，替换掉原app.asar，最后重启clash即可
@@ -33,11 +33,11 @@
 
 - [SSR（不推荐）](https://github.com/githubvpn007/v2rayNvpn/blob/main/ssr_windows.md)
 
-- [轻量化clash，临时FQ工具，【发布链接】](https://bulianglin.com/archives/easyclash.html)，[【使用教程视频】](https://youtu.be/-I5T1G6NdKM)  
+- [轻量化clash，临时翻墙工具【发布链接】](https://bulianglin.com/archives/easyclash.html)，[【使用教程视频】](https://youtu.be/-I5T1G6NdKM)  
 
 - [Netch 游戏加速工具, 使用节点代替网游加速器（视频介绍）](https://youtu.be/M-G977nQNhc) - [Netch下载地址 (需要NET库前提)](https://github.com/NetchX/Netch/releases)
 
-> [怎么选？ 选哪个？各种的常见FQ工具介绍和推荐](https://github.com/githubvpn007/proxy)  
+> [怎么选？ 选哪个？各种的常见工具介绍和推荐](https://github.com/githubvpn007/proxy)  
 > (苹果手机ios系统，参考机场给出的解决办法，一般为小火箭ShadowRocket)  
 
 ----------------------------
@@ -59,9 +59,12 @@
 [OpenWrt 固件视频 YT](https://youtu.be/1OPZVrrZ9xc) - [【恩山固件帖子】](https://www.right.com.cn/forum/thread-8234820-1-1.html) - [【固件下载链接](https://sssddddff.lanzouh.com/iwWuG05fla7e)  
 推荐OpenWrt，功能强大，在YouTube搜索，有非常多各种固件、版本的中文教程。  
 
-- 网关模式：局域网网关模式，可以实现同一个wifi下的设备上网，缺点是每个设备第一次连接时，需要多一步设置手动代理、填ip填端口。始终需要一台手机、电脑等设备，时时刻刻分享局域网代理，只适合短时间内电脑给手机、平板、VR等设备，共享特殊网络，不太适合长时间使用。[教程链接](https://youtu.be/Y6dDuL73Vxo)  
-- 终极解决方法：软路由+OpenWrt 拨号上网，普通硬路由器做AP，是目前比较主流的方便、快捷、性能强悍的方案，软路由性能强大，功能丰富，拓展性强，大部分设备都能局域网2.5G，科学千兆。  
-缺点是需要买设备，且配置起来稍微繁琐。  
+- 网关模式：局域网网关模式，通过电脑或手机里的科学软件，比如clash，开启局域网端口，就可以实现这个路由器下的这个端口的设备都能科学上网，缺点是每个设备第一次连接时，需要多一步设置手动代理、填ip填端口，有点麻烦，而且始终需要一台手机电脑等设备，时时刻刻分享局域网代理，这个只适合短时间内电脑给手机、平板、VR等设备，共享网络，不太适合长时间使用。[教程链接](https://youtu.be/Y6dDuL73Vxo)  
+- 终极解决方法：软路由+OpenWrt 拨号上网，普通硬路由器做AP，是目前比较主流的性价比、方便、快捷、性能强悍的解决方案，软路由性能强大，功能丰富，拓展性强，大部分设备都能局域网2.5G，科学千兆。  
+缺点是需要买设备，常见的软路由一般价格在400-1000左右，且配置起来稍微繁琐。  
+常见的软路由设备型号：
+	- ARM架构:R4S\R2S\R5S\H68K\R68s
+	- X86架构：J1900\J4125\N5105等等，其他更多型号和推荐，在YouTube可以找到很多相关的内容。  
 
 
 ----------------------------
@@ -75,9 +78,10 @@
 
 > **提醒一下：上网流不流畅、卡不卡顿、网速、延迟等等的这些因素，是由机场的优劣决定的，**  
 > **想要良好的上网体验，请自行寻找优秀的机场。**  
+> 这里我推荐的这几个机场算是性价比高一点的，墙高和高峰时段的体验都不太行，又不是不能用，想找更牛逼的可以自己去找，或者下面有一个推荐机场的网站。  
 >   
-> 另外，为了防止与世界失联，老司机们通常会备至少2个机场，以备不时之需。  
-
+> 另外，以备不时之需，老司机们通常会准备好几个机场，至少2个，防止与世界失联！  
+> 陷入了 `只有翻出去才能买机场，但没有机场又翻不出去` 的死循环。  
 
 ----------------------------
 
@@ -100,7 +104,7 @@
 
 ---
 
-## [自建VPS](https://github.com/haoel/haoel.github.io)
+## [如何自建VPS ？](https://github.com/haoel/haoel.github.io)
 
 -------
 
