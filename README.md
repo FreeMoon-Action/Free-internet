@@ -18,22 +18,22 @@
 
 ## 科学软件工具：
 
-- [【Clash 电脑端】俗称小猫咪，推荐使用！ 支持Windows、Mac、Linux】https://github.com/Fndroid/clash_for_windows_pkg/releases](https://github.com/Fndroid/clash_for_windows_pkg/releases)  
+- [【Clash 电脑端】俗称小猫咪，推荐使用！ 支持Windows、Mac、Linux https://github.com/Fndroid/clash_for_windows_pkg/releases](https://github.com/Fndroid/clash_for_windows_pkg/releases)  
 建议下载便携版，解压即可使用，便携版名称为 Clash.for.Windows-版本号-win.7z  
 （Mac和Linux的Clash也叫Clash for windows，安装方式大同小异）  
 如何更新Clash？ 下载新版Clash压缩包打开解压，直接覆盖原文件既可，数据不丢失，但需重新下同版本的汉化包。  
 注意：目前已知的bug，在不退出关闭clash关机的情况下，下次开机将会无法联网，解决办法是启动clash再关闭能解决，但是避免麻烦尽量关机前退出clash。  
 
-- [【clash汉化，clash默认语言为英语，可下载汉化版】](https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases)  
+- [clash汉化，clash默认语言为英语，可下载汉化版](https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases)  
 找到跟clash相同版本号的汉化包，下载app.7z，解压出app.asar文件，复制到clash目录里的resources文件夹，替换掉原app.asar，最后重启clash即可
 
-- [【clash安卓版 下载高级通用版 premium-universal-release.apk】](https://github.com/Kr328/ClashForAndroid/releases)
+- [Clash安卓版 下载高级通用版 premium-universal-release.apk](https://github.com/Kr328/ClashForAndroid/releases)
 
 - [v2rayN (下载+教程)](https://github.com/githubvpn007/v2rayNvpn/blob/main/V2rayN_Windows.md)
 
 - [SSR（不推荐）](https://github.com/githubvpn007/v2rayNvpn/blob/main/ssr_windows.md)
 
-- [轻量化clash，临时翻墙工具【发布链接】](https://bulianglin.com/archives/easyclash.html)，[【使用教程视频】](https://youtu.be/-I5T1G6NdKM)  
+- [轻量化clash，临时翻墙工具 链接](https://bulianglin.com/archives/easyclash.html)， [使用教程视频](https://youtu.be/-I5T1G6NdKM)  
 
 - [Netch 游戏加速工具, 使用节点代替网游加速器（视频介绍）](https://youtu.be/M-G977nQNhc) - [Netch下载地址 (需要NET库前提)](https://github.com/NetchX/Netch/releases)
 
@@ -60,8 +60,10 @@
 推荐OpenWrt，功能强大，在YouTube搜索，有非常多各种固件、版本的中文教程。  
 
 - 网关模式：局域网网关模式，通过电脑或手机里的科学软件，比如clash，开启局域网端口，就可以实现这个路由器下的这个端口的设备都能科学上网，缺点是每个设备第一次连接时，需要多一步设置手动代理、填ip填端口，有点麻烦，而且始终需要一台手机电脑等设备，时时刻刻分享局域网代理，这个只适合短时间内电脑给手机、平板、VR等设备，共享网络，不太适合长时间使用。[教程链接](https://youtu.be/Y6dDuL73Vxo)  
-- 终极解决方法：软路由+OpenWrt 拨号上网，普通硬路由器做AP，是目前比较主流的性价比、方便、快捷、性能强悍的解决方案，软路由性能强大，功能丰富，拓展性强，大部分设备都能局域网2.5G，科学千兆。  
+- 终极解决方法：软路由+OpenWrt 拨号上网，普通硬路由器做AP，是目前比较主流的性价比、方便、快捷、性能强悍的解决方案。  
+软路由性能强大，功能丰富，拓展性强，大部分设备都能局域网2.5G，科学千兆。  
 缺点是需要买设备，常见的软路由一般价格在400-1000左右，且配置起来稍微繁琐。  
+软路由固件推荐使用`OpenWRT` ，或者选择 [iStoreOS](https://github.com/istoreos) ，一个由 `OpenWRT` 简化优化之后的固件，口碑挺不错！[(youtube视频介绍)](https://www.youtube.com/watch?v=8NCydysULe8)  
 	- **常见的软路由设备型号：**  
 		- ARM架构:R4S\R2S\R5S\H68K\R68s  
 		- X86架构：J1900\J4125\N5105等等，其他更多型号和推荐，在YouTube可以找到很多相关的内容。  
