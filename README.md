@@ -53,7 +53,7 @@
 
 ## 路由器 科学上网
 
-- 入门级：性价比路由器，红米AC2100路由器（咸鱼100元左右），刷OpenWrt 或老毛子固件，实现路由器FQ上网，一劳永逸。缺点是家用路由器性能一般，延迟和带宽会有点影响，科学速度接近百兆但跑不满。  
+- 入门级：性价比路由器，红米AC2100路由器（咸鱼100元左右），刷OpenWrt 或老毛子固件，实现路由器上网，一劳永逸。缺点是家用路由器性能一般，延迟和带宽会有点影响，科学速度跑不满百兆，最高70M左右。  
 [刷固件教程 B站](https://www.bilibili.com/video/BV1HZ4y1P7A9)  
 [刷固件+FQ教程 YouTube](https://youtu.be/jBaMRhda4Dk)  
 [OpenWrt 固件视频 YT](https://youtu.be/1OPZVrrZ9xc) - [【恩山固件帖子】](https://www.right.com.cn/forum/thread-8234820-1-1.html) - [【固件下载链接](https://sssddddff.lanzouh.com/iwWuG05fla7e)  
@@ -62,8 +62,8 @@
 - 网关模式：局域网网关模式，通过电脑或手机里的科学软件，比如clash，开启局域网端口，就可以实现这个路由器下的这个端口的设备都能科学上网，缺点是每个设备第一次连接时，需要多一步设置手动代理、填ip填端口，有点麻烦，而且始终需要一台手机电脑等设备，时时刻刻分享局域网代理，这个只适合短时间内电脑给手机、平板、VR等设备，共享网络，不太适合长时间使用。[教程链接](https://youtu.be/Y6dDuL73Vxo)  
 - 终极解决方法：软路由+OpenWrt 拨号上网，普通硬路由器做AP，是目前比较主流的性价比、方便、快捷、性能强悍的解决方案。  
 软路由性能强大，功能丰富，拓展性强，大部分设备都能局域网2.5G，科学千兆。  
-缺点是需要买设备，常见的软路由一般价格在400-1000左右，且配置起来稍微繁琐。  
-软路由固件推荐使用`OpenWRT` ，或者选择 [iStoreOS](https://github.com/istoreos) ，一个由 `OpenWRT` 简化优化之后的固件，口碑挺不错！[(youtube视频介绍)](https://www.youtube.com/watch?v=8NCydysULe8)  
+缺点是需要买设备，常见的软路由价格在200-1000左右，通常为四五百，且配置起来稍微繁琐。  
+软路由固件推荐使用`OpenWRT` ，或者 [iStoreOS](https://github.com/istoreos) ，一个由 `OpenWRT` 简化优化之后的固件，口碑挺不错！[(youtube视频介绍)](https://www.youtube.com/watch?v=8NCydysULe8)  
 	- **常见的软路由设备型号：**  
 		- ARM架构:R4S\R2S\R5S\H68K\R68s  
 		- X86架构：J1900\J4125\N5105等等，其他更多型号和推荐，在YouTube可以找到很多相关的内容。  
