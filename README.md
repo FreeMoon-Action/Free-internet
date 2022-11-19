@@ -85,6 +85,12 @@
 > 另外，以备不时之需，老司机们通常会准备好几个机场，至少2个，防止与世界失联！  
 > 陷入了 `只有翻出去才能买机场，但没有机场又翻不出去` 的死循环。  
 
+## VPN
+- [VPN 是什么？ 免费、加密、NoLogs隐私保护的大厂vpn推荐 · YouTube视频](https://youtu.be/ipE9IWEYjwM)  
+https://protonvpn.com/  
+https://privadovpn.com/  
+https://zoogvpn.com/  
+
 ----------------------------
 
 ## 每日更新的免费机场节点：（谨慎使用，注意隐私）
