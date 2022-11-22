@@ -24,10 +24,10 @@
 如何更新Clash？ 下载新版Clash压缩包打开解压，直接覆盖原文件既可，数据不丢失，但需重新下同版本的汉化包。  
 注意：目前已知的bug，在不退出关闭clash关机的情况下，下次开机将会无法联网，解决办法是启动clash再关闭能解决，但是避免麻烦尽量关机前退出clash。  
 
-- [clash汉化，clash默认语言为英语，可下载汉化版](https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases)  
+	- [clash汉化，clash默认语言为英语，可下载汉化版](https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases)  
 找到跟clash相同版本号的汉化包，下载app.7z，解压出app.asar文件，复制到clash目录里的resources文件夹，替换掉原app.asar，最后重启clash即可
 
-- [Clash安卓版 下载高级通用版 premium-universal-release.apk](https://github.com/Kr328/ClashForAndroid/releases)
+	- [Clash安卓版 下载高级通用版 premium-universal-release.apk](https://github.com/Kr328/ClashForAndroid/releases)
 
 - [v2rayN (下载+教程)](https://github.com/githubvpn007/v2rayNvpn/blob/main/V2rayN_Windows.md)
 
@@ -37,8 +37,9 @@
 
 - [Netch 游戏加速工具, 使用节点代替网游加速器（视频介绍）](https://youtu.be/M-G977nQNhc) - [Netch下载地址 (需要NET库前提)](https://github.com/NetchX/Netch/releases)
 
+- 苹果手机/平板等ios系统，请参考机场给出的解决办法，一般为`ShadowRocket`，俗称小火箭，因为境内Apple ID无法下载，需要境外的ID，一般通常机场会免费提供Apple ID，请仔细阅读机场网站的教程和注意事项，或者咨询机场客服。  
+
 > [怎么选？ 选哪个？各种的常见工具介绍和推荐](https://github.com/githubvpn007/proxy)  
-> (苹果手机ios系统，参考机场给出的解决办法，一般为小火箭ShadowRocket)  
 
 ----------------------------
 
@@ -82,20 +83,15 @@
 > **想要良好的上网体验，请自行寻找优秀的机场。**  
 > 这里我推荐的这几个机场算是性价比高一点的，墙高和高峰时段的体验都不太行，又不是不能用，想找更牛逼的可以自己去找，或者下面有一个推荐机场的网站。  
 >   
-> 另外，以备不时之需，老司机们通常会准备好几个机场，至少2个，防止与世界失联！  
-> 陷入了 `只有翻出去才能买机场，但没有机场又翻不出去` 的死循环。  
+> 另外，以备不时之需，老司机们通常会准备好几个机场，防止与世界失联！  
+> 以免陷入了 `只有翻出去才能买机场，但没有机场又翻不出去` 的死循环。  
 
 ## 其他问题
 **以上内容能解决大部分问题了，如果还碰到了其他的问题，该如何解决？**  
-1. 大部分机场网站首页都写了很详细的教材可以参考，以及咨询机场客服、或机场TG群。  
-2. 在YouTube 和Google上面，可以搜索到大量的视频教程、攻略、讲解等等内容。  
+1. 大部分机场网站首页都写了很详细的教程可以参考，以及咨询机场客服、或机场TG群。  
+2. 99%的问题，都能在YouTube 和Google上面，可以搜索到大量的视频教程、攻略、讲解等等内容。  
+别像个傻比一样，在百度搜索，在头条西瓜抖音B站知乎这些地方找，也别在QQ群上面问，别害别人，也害自己。  
 3. 如果真的解决不了，请放弃这件事情，不适合你。  
-
-## VPN
-- [VPN 是什么？ 免费、加密、NoLogs隐私保护的大厂vpn推荐 · YouTube视频](https://youtu.be/ipE9IWEYjwM)  
-https://protonvpn.com/  
-https://privadovpn.com/  
-https://zoogvpn.com/  
 
 ----------------------------
 
@@ -117,6 +113,12 @@ https://zoogvpn.com/
 - [性价比机场推荐 https://www.duangks.com/4.html](https://www.duangks.com/4.html)
 
 ---
+
+## VPN
+- [VPN 是什么？ 免费、加密、NoLogs隐私保护的大厂vpn推荐 · YouTube视频](https://youtu.be/ipE9IWEYjwM)  
+https://protonvpn.com/  
+https://privadovpn.com/  
+https://zoogvpn.com/  
 
 ## [如何自建VPS ？](https://github.com/haoel/haoel.github.io)
 
