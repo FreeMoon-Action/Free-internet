@@ -113,7 +113,7 @@
 
 - [毒药ss https://www.duyaoss.com/](https://www.duyaoss.com/)  
 - [性价比机场推荐 https://www.duangks.com/4.html](https://www.duangks.com/4.html)
-
+- [FQ论坛, 交流, 评测, 推荐](https://fanqiangdang.com/)
 ---
 
 ## VPN
