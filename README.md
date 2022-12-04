@@ -97,10 +97,12 @@
 ----------------------------
 
 ## 每日更新的免费机场节点：（谨慎使用，注意隐私）
-
+- **YouTuber 的分享：**  
 - [YouTuber破解资源君的免费节点 GitHub（人多不稳）](https://github.com/pojiezhiyuanjun/freev2)（Ctrl+F搜索最近日期，比如1212，或搜hours ago，即今天，或搜yesterday，即昨天）  
 （下zip解压出yml文件，或直接打开yml文件,RAW,复制到txt文本保存成yml文件，导入到clash里面）  
 - [YouTuber工具大师i 分享的免费节点视频合集 YT](https://www.youtube.com/watch?v=A6wWr21erCw&list=PLUOjxdiWjGF6u-JV4f-eRxTFGsVHAshaR) (见评论区/简介描述)  
+- ~~[ClashNode](https://clashnode.com/)~~ 不太稳  
+- 
 - [免费V2Ray - 放牧的风](https://www.youneed.win/free-v2ray)
 - [免费节点 - Lncn.org](https://lncn.org/)
 - [蚂蚁VPN](https://ant.aff004.xyz/) 独立的付费软件，但有免费试用的少量流量，这个适合用免费流量翻出去找机场、买机场，但这种独立的科学软件不推荐使用。
