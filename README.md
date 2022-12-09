@@ -73,12 +73,13 @@
 
 ## 机场链接：
 
-- [XFSS养鸡场（月付1元17G/7元150G，计流量不限时10元120G/20元250G等等）口碑不错，推荐! ](https://xfltd.org/index.php#/register?code=rFmCLdkn)  
-- [~~飞鸟云（按流量计费的机场，10元200G，15元400G，20元600G等，不限时，限3设备~~）](https://feiniaoyun.top/#/register?code=OUO4ec5n)   
-- [魔戒（按流量计费的机场，1元10g，10元130g等，不限制使用时间/人数/设备）](https://mojie.me/#/register?code=vcGOwRe1)   
-- [速鹰666（入门版11.9元/100G/月，老牌机场）](https://suying00.com/auth/register?code=Nzib)  
+- [XFSS养鸡场（月付1元17G/7元150G，计流量不限时10元120G/20元250G等等）口碑还行](https://xfltd.org/index.php#/register?code=rFmCLdkn)  
+- [~~飞鸟云（按流量计费的机场，10元200G，15元400G，20元600G等，不限时，限3设备~~ 不太稳 只适合备用）](https://feiniaoyun.top/#/register?code=OUO4ec5n)   
+- [~~魔戒（按流量计费的机场，1元10g，12元130g等，不限制使用时间/人数/设备）~~ 一片红](https://mojie.me/#/register?code=vcGOwRe1)   
+- [速鹰666（入门版19元/100G/月）](https://suying00.com/auth/register?code=Nzib)  
 - 
-- 目前飞鸟云不推荐，魔戒一般般，估计机场摆烂了  
+- 目前飞鸟云不推荐，魔戒一般般，估计人多墙高，机场摆烂了  
+- 有任何问题请联系机场的客服，几乎所有机场，在TG上面都有官方群/聊天群/客服。  
 
 > **提醒一下：上网流不流畅、卡不卡顿、网速、延迟等等的这些因素，是由机场的优劣决定的，**  
 > **想要良好的上网体验，请自行寻找优秀的机场。**  
@@ -91,8 +92,8 @@
 **以上内容能解决大部分问题了，如果还碰到了其他的问题，该如何解决？**  
 1. 大部分机场网站首页都写了很详细的教程可以参考，以及咨询机场客服、或机场TG群。  
 2. 99%的问题，都能在YouTube 和Google上面，可以搜索到大量的视频教程、攻略、讲解等等内容。  
-别像个傻比一样，在百度搜索，在头条西瓜抖音B站知乎这些地方找，也别在QQ群上面问，别害别人，也害自己。  
-3. 如果真的解决不了，请放弃这件事情，不适合你。  
+别像个傻比一样，在百度搜索，在 头条/西瓜/抖音/B站/知乎 这些地方找，还有在QQ群上面问的，求求你别害别人。  
+3. 最后，如果真的解决不了，请放弃这件事情。  
 
 ----------------------------
 
@@ -174,7 +175,7 @@ https://zoogvpn.com/
 - [YouTube 自动翻译、双字幕](https://chrome.google.com/webstore/detail/youtube-dual-subtitles/hkbdddpiemdeibjoknnofflfgbgnebcm)
 - [视频倍速播放，适用于90%网站中的视频](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk)  
 [（备用下载链接Link，旧版）](https://chrome.zzzmh.cn/info?token=nffaoalbilbmmfgbnbgppjihopabppdk)
-- [推荐：暴力猴-脚本管理器](https://chrome.zzzmh.cn/info?token=jinjaccalgkegednnccohejagnlnfdag) 油猴、暴力猴本质是一个东西，但个人觉得暴力猴更好用一些，方便管理插件。  
+- [暴力猴-脚本管理器](https://chrome.zzzmh.cn/info?token=jinjaccalgkegednnccohejagnlnfdag) 油猴、暴力猴本质是一个东西，但个人觉得暴力猴更好用一些，方便管理插件。  
 [【暴力猴官网】](https://violentmonkey.github.io/) - [【油猴官网】](https://www.tampermonkey.net/)
 - [油猴脚本下载站](https://greasyfork.org/zh-CN/scripts) 配合搜索，可以很方便找到各种优秀的插件  
   **油猴插件推荐**
@@ -192,17 +193,18 @@ https://zoogvpn.com/
 ## 常用站点/推荐
 
 - [YouTube全球最大的视频网站](https://www.youtube.com/)
-- [Telegram电报，国外常用的聊天工具,开源。吊打QQ微信](https://telegram.org/) / [视频教程](https://youtu.be/zKSoN0ZHqso) / [TG电报频道搜索网](https://cn.tgstat.com/)  
+- [Telegram 电报，简称TG，国外常用的聊天工具, 开源软件。吊打QQ微信](https://telegram.org/) / [视频教程](https://youtu.be/zKSoN0ZHqso) / [TG电报频道搜索网](https://cn.tgstat.com/)  
 - [Quora 国外版知乎, 在线问答网站](https://www.quora.com/)
 - [Reddit 娱乐、兴趣、社交、论坛、新闻等交流网站](https://www.reddit.com/)
 - [Discord 大型互联网社群、兴趣交流社区](https://discord.com/)
 - [全球上网测速](https://fast.com/zh/tw/) 测机场速度
 - [1337X 搜种子电影音乐等等](https://www.1377x.to/)
-- [自学英语推荐（罗塞塔石碑）](https://youtu.be/DTklFxLIcW8)
+- [零基础自学英语推荐 Rosetta Stone（罗塞塔石碑）](https://youtu.be/DTklFxLIcW8)
 - [火币网（虚拟货币价格参考）](https://www.huobi.com/zh-cn/exchange/btc_usdt)
 - [互联网时光机-查看某个网站，多年前的样子](https://web.archive.org/)
-- 
 - [接码网站_接收短信验证码, 临时手机号](https://jiemahao.com/)
+- [外国接码网站 - SMS-Activate （收费）](https://sms-activate.org/cn)
+- 
 - [APK Downloader 下载谷歌商店Google Play里面的app应用，需填入app链接](https://apps.evozi.com/apk-downloader/)
 - [Google Play 谷歌商店官网，安卓App应用官网](https://play.google.com/store/apps) 搭配上面↑ 的APK下载网站，可以下载安卓apk应用，解决国内手机没有谷歌商店，无法下载应用的问题。  
 - [APKPure应用商店,下载全球app的安卓APK](https://apkpure.com/cn/)
