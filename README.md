@@ -151,10 +151,11 @@ https://zoogvpn.com/
 ----------------------------
 
 ## 出去之后 ！
-
 - [科学上网的介绍+导航](https://github.com/githubvpn007/v2rayNvpn)  
 - [什么是墙？](https://youtu.be/XKZM_AjCUr0)
 - [FQ方式科普](https://youtu.be/f9ohvZyQrmY)
+- [翻墙后12类62个热门精华APP网站全家桶推荐指南](https://telegra.ph/fanqianghoulist-11-29)
+- 
 - [【中国人安全上网指南1.0】上外网如何避免 隐私泄露？](https://www.reddit.com/r/real_China_irl/comments/x34157/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%AE%89%E5%85%A8%E4%B8%8A%E7%BD%91%E6%8C%87%E5%8D%9710%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/)
 - [如何在网络中保护隐私](https://privacy.kallydev.com/)
 
