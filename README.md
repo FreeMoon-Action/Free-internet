@@ -8,7 +8,7 @@
 - 本文为私人导航页，请不要在互联网传播，别给自己和别人带来麻烦。  
 - 请不要给本 GitHub项目 点Star和Fork，别点！！  
 - 通过GitHub搜索 `肥宅快乐上网` 或 `快乐上网` 都能找到本项目  
-- 翻墙，又名科学上网、魔法上网、高级上网、特殊网络、代理上网、出国留学、出国、外网、起飞等等，在中国大陆是违法行为，禁止在国内交流谈论，本文仅供海外华人、留学生等参考。  
+- 翻墙，又名科学上网、魔法上网、VPN上网、翻山越岭、出国留洋、谷歌网络、高级上网、特殊网络、代理上网、出国留学、出国、外网、起飞等等，在中国大陆是违法行为，禁止在国内交流谈论，本文仅供海外华人、留学生等参考。  
 - 上网步骤：科学软件+机场节点=起飞成功！  
 
 > 注意：本文章 在自动翻译的浏览器下，会显示不正常，请关掉自动翻译，或者使用Egde、Chrome浏览器打开
@@ -18,17 +18,20 @@
 
 ## 科学软件工具：
 
-- [【Clash 电脑端】俗称小猫咪，推荐使用！ 支持Windows、Mac、Linux https://github.com/Fndroid/clash_for_windows_pkg/releases](https://github.com/Fndroid/clash_for_windows_pkg/releases)  
-建议下载便携版，解压即可使用，便携版名称为 Clash.for.Windows-版本号-win.7z  
-（Mac和Linux的Clash也叫Clash for windows，安装方式大同小异）  
-如何更新Clash？ 下载新版Clash压缩包打开解压，直接覆盖原文件既可，数据不丢失，但需重新下同版本的汉化包。  
-注意：目前已知的bug，在不退出关闭clash关机的情况下，下次开机将会无法联网，解决办法是启动clash再关闭能解决，但是避免麻烦尽量关机前退出clash。  
+- [~~【Clash 电脑端】俗称小猫咪，推荐使用！ 支持Windows、Mac、Linux https://github.com/Fndroid/clash_for_windows_pkg/releases~~](https://github.com/Fndroid/clash_for_windows_pkg/releases)  
+由于 clash 作者在推特上过于高调导致自己身份信息泄露，现在该项目已经删库跑路，截至目前，能用的只有删前的最后一个版本，后续可能会有其他作者继续维护项目，或者其他软件代替clash。  
+- [【Clash 汉化包作者提供的版本】](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases)  
+汉化包作者提供了删库前的版本，和打包的汉化版，原版为英文需单独替换汉化包 `app.asar` 文件。
+
+建议下载压缩包便携版，解压即可使用，便携版名称为 Clash.for.Windows-版本号-win.7z  
+（Mac和Linux的Clash同名）如何更新Clash？ 下载新版压缩包解压覆盖原文件既可，数据不丢失，但需更新同版本汉化包。  
+注意：目前已知的bug，clash非开机自启，并且在不退出关闭clash关机的情况下，下次开机将会无法联网，解决办法是启动clash再关闭能解决，但是避免麻烦尽量关机前退出clash。  
 
 	- [clash汉化，clash默认语言为英语，可下载汉化版](https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases)  
 找到跟clash相同版本号的汉化包，下载app.7z，解压出app.asar文件，复制到clash目录里的resources文件夹，替换掉原app.asar，最后重启clash即可
 
-	- [Clash安卓版 下载高级通用版 premium-universal-release.apk](https://github.com/Kr328/ClashForAndroid/releases)
-
+	- [【Clash安卓版】 下载高级通用版 premium-universal-release.apk](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/tag/CFA)
+- 
 - [v2rayN (下载+教程)](https://github.com/githubvpn007/v2rayNvpn/blob/main/V2rayN_Windows.md)
 
 - [SSR（不推荐）](https://github.com/githubvpn007/v2rayNvpn/blob/main/ssr_windows.md)
@@ -52,6 +55,7 @@
 
 ----------------------------
 ## 路由器 科学上网
+> 很久没关注这个领域了，以下内容均为 2022年 左右常见的硬件，内容可能已经过时、失效，数码产品月月新，请自行寻找其他优秀的产品。  
 
 - **入门级家用路由器，硬路由刷固件，实现科学上网**  
 	- **红米AC2100路由器**（咸鱼100元左右），刷OpenWrt固件或老毛子固件。这款路由器比较热门，性价比还算OK，缺点是性能一般，科学速度跑不满百兆，最高70M左右。  
@@ -71,60 +75,56 @@
 
 ----------------------------
 
-## 机场链接：
+## 机场
+
+> **提醒一下：上网流不流畅、卡不卡顿、网速、延迟等等的这些因素，是由机场的优劣决定的，**  
+> **想要良好的上网体验，请自行寻找优秀的机场。**
+>   
+> 免费、便宜的机场都不太稳定。  
+> 有任何问题请联系机场的客服，几乎所有机场，在TG上面都有官方群/聊天群/客服。  
 
 - [XFSS养鸡场（月付1元17G/7元150G，计流量不限时10元120G/20元250G等等）口碑还行](https://xfltd.org/index.php#/register?code=rFmCLdkn)  
-- [~~飞鸟云~~ （按流量计费的机场，10元200G，15元400G，20元600G等，不限时，限3设备 （不太稳 只适合备用）](https://feiniaoyun.top/#/register?code=OUO4ec5n)   
+- [飞鸟云 （按流量计费的机场，10元200G，15元400G，20元600G等，不限时，限3设备 ](https://feiniaoyun.top/#/register?code=OUO4ec5n)   
 - [~~魔戒 （按流量计费的机场，1元10g，12元130g等，不限制使用时间/人数/设备）~~ （一片红）](https://mojie.me/#/register?code=vcGOwRe1)   
 - [速鹰666（入门版19元/100G/月）](https://suying00.com/auth/register?code=Nzib)  
 - 
-- 目前飞鸟云不推荐，魔戒一般般，估计人多墙高，机场摆烂了  
-- 有任何问题请联系机场的客服，几乎所有机场，在TG上面都有官方群/聊天群/客服。  
+- 想要便宜、性价比高的，推荐选择流量计费，且不限使用时长的，这样只要你不下载、长时间看剧，正常使用 10块钱通常能用大半年，非常的Nice！！  
 
-> **提醒一下：上网流不流畅、卡不卡顿、网速、延迟等等的这些因素，是由机场的优劣决定的，**  
-> **想要良好的上网体验，请自行寻找优秀的机场。**  
-> 这里我推荐的这几个机场算是性价比高一点的，墙高和高峰时段的体验都不太行，又不是不能用，想找更牛逼的可以自己去找，或者下面有一个推荐机场的网站。  
->   
 > 另外，以备不时之需，老司机们通常会准备好几个机场，防止与世界失联！  
 > 以免陷入了 `只有翻出去才能买机场，但没有机场又翻不出去` 的死循环。  
+
+## 机场测试、评测、推荐网站
+
+- [【爱机场】 机场推荐与评测 aijichang.org ](https://aijichang.org/)
+- [性价比机场推荐 https://www.duangks.com/](https://www.duangks.com/)
+- [毒药ss 测试和介绍 https://www.duyaoss.com/](https://www.duyaoss.com/)  
+- [FQ论坛, 交流, 评测, 推荐](https://fanqiangdang.com/)
+- 另外，YouTube上面搜机场推荐，也有不少博主会做机场评测、推荐的视频，是否为广告和有水分，自行判断。
 
 ## 其他问题
 **以上内容能解决大部分问题了，如果还碰到了其他的问题，该如何解决？**  
 1. 大部分机场网站首页都写了很详细的教程可以参考，以及咨询机场客服、或机场TG群。  
 2. 99%的问题，都能在YouTube 和Google上面，可以搜索到大量的视频教程、攻略、讲解等等内容。  
-别像个傻比一样，在百度搜索，在 头条/西瓜/抖音/B站/知乎 这些地方找，还有在QQ群上面问的，求求你别害别人。  
+别像个傻比一样，在百度搜索，在 头条/西瓜/抖音/B站/知乎 这些地方找，还有在QQ群上面问的，求求你，别害人，别人真回答你了会封号的。  
 3. 最后，如果真的解决不了，请放弃这件事情。  
 
 ----------------------------
 
 ## 每日更新的免费机场节点：（谨慎使用，注意隐私）
-- **YouTuber 的分享：**  
-- [YouTuber破解资源君的免费节点 GitHub（人多不稳）](https://github.com/pojiezhiyuanjun/freev2)（Ctrl+F搜索最近日期，比如1212，或搜hours ago，即今天，或搜yesterday，即昨天）  
-（下zip解压出yml文件，或直接打开yml文件,RAW,复制到txt文本保存成yml文件，导入到clash里面）  
-- [YouTuber工具大师i 分享的免费节点视频合集 YT](https://www.youtube.com/watch?v=A6wWr21erCw&list=PLUOjxdiWjGF6u-JV4f-eRxTFGsVHAshaR) (见评论区/简介描述)  
-- ~~[ClashNode](https://clashnode.com/)~~ 不太稳  
-- 
-- [免费V2Ray - 放牧的风](https://www.youneed.win/free-v2ray)
-- [免费节点 - Lncn.org](https://lncn.org/)
-- [蚂蚁VPN](https://ant.aff004.xyz/) 独立的付费软件，但有免费试用的少量流量，这个适合用免费流量翻出去找机场、买机场，但这种独立的科学软件不推荐使用。
-- 
-> 谨慎使用，注意隐私。
+> 大部分已失效，已删除，并且免费的有隐私风险，不建议使用。
+> 
+> 谨慎使用，注意隐私。  
 > [【中国人安全上网指南1.0】上外网, 如何避免隐私泄露？](https://www.reddit.com/r/real_China_irl/comments/x34157/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%AE%89%E5%85%A8%E4%B8%8A%E7%BD%91%E6%8C%87%E5%8D%9710%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/)
 
-## 机场测试、评测、推荐网站
 
-- [毒药ss https://www.duyaoss.com/](https://www.duyaoss.com/)  
-- [性价比机场推荐 https://www.duangks.com/4.html](https://www.duangks.com/4.html)
-- [FQ论坛, 交流, 评测, 推荐](https://fanqiangdang.com/)
 ---
+
+## 以下内容不更新，可能失效。
+
 
 ## VPN
 - [VPN 是什么？ 免费、加密、NoLogs隐私保护的大厂vpn推荐 · YouTube视频](https://youtu.be/ipE9IWEYjwM)  
-https://protonvpn.com/  
-https://privadovpn.com/  
-https://zoogvpn.com/  
-
-## [如何自建VPS ？](https://github.com/haoel/haoel.github.io)
+- [如何自建VPS ？](https://github.com/haoel/haoel.github.io)
 
 -------
 
@@ -186,9 +186,9 @@ https://zoogvpn.com/
     - [翻译机，翻译国外常见网站](https://greasyfork.org/zh-CN/scripts/378277-%E7%BF%BB%E8%AF%91%E6%9C%BA)
     - [Github增强 下载加速](https://greasyfork.org/zh-CN/scripts/412245-github-%E5%A2%9E%E5%BC%BA-%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD)
 
-## [极简插件 - 插件导航页](https://chrome.zzzmh.cn/#/extension)
-
-> 待更新
+## 国内插件网站
+- [Extfans 插件迷 ](https://extfans.com/)  
+- [极简插件 - 插件导航页](https://chrome.zzzmh.cn/#/extension)  
 
 ----------------
 
