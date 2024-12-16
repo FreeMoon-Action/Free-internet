@@ -8,11 +8,10 @@
 - 本文为私人导航页，请不要在互联网传播，别给自己和别人带来麻烦。  
 - 请不要给本 GitHub项目 点Star和Fork，别点！！  
 - 通过GitHub搜索 `肥宅快乐上网` 或 `快乐上网` 都能找到本项目  
-- 翻墙，又名科学上网、魔法上网、VPN上网、翻山越岭、漂洋过海、谷歌网络、高级上网、特殊网络、代理上网、出国留学、出国、外网、起飞等等，在中国大陆是违法行为，禁止在国内交流谈论，本文仅供海外华人、留学生等参考。  
+- 翻墙，又名科学上网、魔法上网、高级上网、VPN上网、谷歌网络、特殊网络、代理上网、出国留学、出国、外网、起飞等等，在中国大陆是违法行为，禁止在国内交流谈论，本文仅供海外华人、留学生等参考。  
 - 上网步骤：科学软件+机场节点=起飞成功！  
 
 > 注意：本文章 在自动翻译的浏览器下，会显示不正常，请关掉自动翻译，或者使用Egde、Chrome浏览器打开
-
 
 ----------------------------
 
@@ -46,22 +45,19 @@
 
 ## 其他工具：
 
-- [节点测速工具](https://youtu.be/aSR6OuqtFdU)
-
-- [QB下载器 qBittorrent 增强版-下载_QT6_x64_setup.exe版本](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases)  
-[↑ 【QB下载器 订阅跟踪列表】(QB设置-地球logoBitTorrent下面勾选-粘贴Refetch-应用+确定_)](https://github.com/XIU2/TrackersListCollection/blob/master/README-ZH.md)
+- [科学网络测速](https://fast.com/zh/tw/)
 
 ----------------------------
 ## 路由器 科学上网
-> 很久没关注这个领域了，以下内容均为 2022年 左右常见的硬件，内容可能已经过时、失效，数码产品月月新，请自行寻找其他优秀的产品。  
+> 很久没关注这个领域，以下内容均为 2022年 左右的硬件，内容可能已经过时、失效，数码产品月月新，请自行寻找其他优秀的产品。  
 
 - **入门级家用路由器，硬路由刷固件，实现科学上网**  
-	- **红米AC2100路由器**（咸鱼100元左右），刷OpenWrt固件或老毛子固件。这款路由器比较热门，性价比还算OK，缺点是性能一般，科学速度跑不满百兆，最高70M左右。  
+	- **红米AC2100路由器**（捡二手百元左右），刷OpenWrt固件或老毛子固件。这款路由器比较热门，性价比还算OK，缺点是性能一般，科学速度跑不满百兆，最高70M左右。  
     [B站刷固件教程视频](https://www.bilibili.com/video/BV1HZ4y1P7A9) ，[YouTube 刷固件+FQ教程](https://youtu.be/jBaMRhda4Dk) ，
     [OpenWrt 固件视频 YT](https://youtu.be/1OPZVrrZ9xc) - [【恩山固件帖子】](https://www.right.com.cn/forum/thread-8234820-1-1.html) - [【固件下载链接](https://sssddddff.lanzouh.com/iwWuG05fla7e)  
     推荐OpenWrt，功能强大，在YouTube搜索，有非常多各种固件、版本的中文教程。  
-    - **兆能M2**，（150左右），比较热门，CPU型号高通IPQ6000，性能还行，刷openwrt固件，过程比红米ac2100稍微繁琐一点点，相关内容：[acwifi文章推荐](https://www.acwifi.net/13962.html)，[什么值得买文章](https://post.smzdm.com/p/avxe2m44/)，[B站视频](https://www.bilibili.com/video/BV1Hr4y1B7F2/)。  
-    - **360T7**，（150左右），CPU型号MT7981，性能还行，可刷 Hanwckf H大的openwrt固件，过程比红米ac2100稍微繁琐一点点，相关内容：[acwifi文章推荐](https://www.acwifi.net/22217.html)，[B站视频](https://www.bilibili.com/video/BV18e4y1g7VL/)，[图文教程](https://qust.me/post/360t7-openwrt/)，[Hanwckf图文教程](https://cmi.hanwckf.top/p/360t7-firmware/)。  
+    - **兆能M2**，（百元左右），比较热门，CPU型号高通IPQ6000，性能还行，刷openwrt固件，过程比红米ac2100稍微繁琐一点点，相关内容：[acwifi文章推荐](https://www.acwifi.net/13962.html)，[什么值得买文章](https://post.smzdm.com/p/avxe2m44/)，[B站视频](https://www.bilibili.com/video/BV1Hr4y1B7F2/)。  
+    - **360T7**，（百元左右），CPU型号MT7981，性能还行，可刷 Hanwckf H大的openwrt固件，过程比红米ac2100稍微繁琐一点点，相关内容：[acwifi文章推荐](https://www.acwifi.net/22217.html)，[B站视频](https://www.bilibili.com/video/BV18e4y1g7VL/)，[图文教程](https://qust.me/post/360t7-openwrt/)，[Hanwckf图文教程](https://cmi.hanwckf.top/p/360t7-firmware/)。  
 - **网关模式**：这个方式有多种叫法，网关模式、局域网共享、旁路由、单臂路由、透明网关，叫法不同，作用类似，通过电脑或手机里的科学软件，比如clash，开启局域网端口，就可以实现这个路由器下的这个端口的设备都能科学上网，缺点是每个设备第一次连接时，需要多一步设置手动代理、填ip填端口，有点麻烦，除非，在路由器里关闭dhcp设置静态ip并指向共享网络的设备的ip，就能避免手机等设备需要改设置的问题，但是不建议使用，一般人搞不明白，能搞明白的人不需要这么繁琐的东西。并而这样做，且始终需要一台手机电脑等设备，时时刻刻分享局域网代理，这个只适合短时间内电脑给手机、平板、VR等设备，共享网络，不太适合长时间使用。[教程链接](https://youtu.be/Y6dDuL73Vxo) （或自行查找其它教程）  
 - **软路由+OpenWrt** ，算是终极解决方法了，软路由做主路由拨号，普通硬路由器做AP，是目前比较主流的性价比、方便、快捷、性能强悍的解决方案。  
 软路由性能强大，功能丰富，拓展性强，大部分设备最低都可以局域网2.5G，科学千兆。  
@@ -81,15 +77,14 @@
 > 免费、便宜的机场都不太稳定。  
 > 有任何问题请联系机场的客服，几乎所有机场，在TG上面都有官方群/聊天群/客服。  
 
-- [XFSS养鸡场（月付1元17G/7元150G，计流量不限时10元120G/20元250G等等）口碑还行](https://xfltd.org/index.php#/register?code=rFmCLdkn)  
+- [XFSS养鸡场（月付1元17G/7元150G，计流量不限时10元120G/20元250G等等）口碑还行](https://xfltd.org/#/register?code=rFmCLdkn)  
 - [飞鸟云 （按流量计费的机场，10元200G，15元400G，20元600G等，不限时，限3设备 ](https://feiniaoyun.top/#/register?code=OUO4ec5n)   
 - [~~魔戒 （按流量计费的机场，1元10g，12元130g等，不限制使用时间/人数/设备）~~ （一片红）](https://mojie.me/#/register?code=vcGOwRe1)   
-- [速鹰666（入门版19元/100G/月）](https://suying00.com/auth/register?code=Nzib)  
 - 
-- 想要便宜、性价比高的，推荐选择流量计费，且不限使用时长的，这样只要你不下载、长时间看剧，正常使用 10块钱通常能用大半年，非常的Nice！！  
+- 想要便宜、性价比高的，推荐选择流量计费，且不限使用时长的，这样只要你不大量下载、长时间看剧等等，正常使用可以做到10块钱流量够用大半年，非常的Nice！！  
 
 > 另外，以备不时之需，老司机们通常会准备好几个机场，防止与世界失联！  
-> 以免陷入了 `只有翻出去才能买机场，但没有机场又翻不出去` 的死循环。  
+> 避免陷入了 `只有翻出去才能买机场，但没有机场又翻不出去` 的死循环。  
 
 ## 机场测试、评测、推荐网站
 
@@ -97,13 +92,13 @@
 - [性价比机场推荐 https://www.duangks.com/](https://www.duangks.com/)
 - [毒药ss 测试和介绍 https://www.duyaoss.com/](https://www.duyaoss.com/)  
 - [FQ论坛, 交流, 评测, 推荐](https://fanqiangdang.com/)
-- 另外，YouTube上面搜机场推荐，也有不少博主会做机场评测、推荐的视频，是否为广告和有水分，自行判断。
+- 另外，YouTube上面搜机场推荐，也有不少博主会做机场评测、推荐的视频，但需自行判断是否为广告和有水分。  
 
 ## 其他问题
 **以上内容能解决大部分问题了，如果还碰到了其他的问题，该如何解决？**  
 1. 大部分机场网站首页都写了很详细的教程可以参考，以及咨询机场客服、或机场TG群。  
 2. 99%的问题，都能在YouTube 和Google上面，可以搜索到大量的视频教程、攻略、讲解等等内容。  
-别像个傻比一样，在百度搜索，在 头条/西瓜/抖音/B站/知乎 这些地方找，还有在QQ群上面问的，求求你，别害人，别人真回答你了会封号的。  
+别像个傻比一样，在百度搜索，在 头条/西瓜/抖音/B站/知乎 这些地方找，还有在QQ群上面问的，求求你，别害人，别人真回答你了会封号喝茶的。  
 3. 最后，如果真的解决不了，请放弃这件事情。  
 
 ----------------------------
@@ -115,22 +110,19 @@
 > 谨慎使用，注意隐私。  
 > [【中国人安全上网指南1.0】上外网, 如何避免隐私泄露？](https://www.reddit.com/r/real_China_irl/comments/x34157/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%AE%89%E5%85%A8%E4%B8%8A%E7%BD%91%E6%8C%87%E5%8D%9710%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/)
 
-
 ---
 
 ## 后面内容很少更新，可能有些已失效，不过对新手来说，还是有不少参考价值的。
 
-
 ## VPN
+
 - [VPN 是什么？ 免费、加密、NoLogs隐私保护的大厂vpn推荐 · YouTube视频](https://youtu.be/ipE9IWEYjwM)  
 - [如何自建VPS ？](https://github.com/haoel/haoel.github.io)
-
 
 ## 一些教程搜集：
 
 - [clash简单教程](https://youtu.be/9Ice-qMePQk)
 - [clash详细教程](https://youtu.be/HY5q2riVwRk)
-
 
 ## 出去之后 ！
 
@@ -155,17 +147,13 @@
 ## YouTube频道推荐：
 
 - [小岛大浪吹](https://www.youtube.com/@xiaodaodalang/featured) 
-- [四處觀察](https://www.youtube.com/@sichuguancha) 了解世界知识
+- [四處觀察](https://www.youtube.com/@sichuguancha) 
 - [小叔TV](https://www.youtube.com/@xiaoshu)
 - [56BelowTV 零下56](https://www.youtube.com/@56BelowTV/featured)
 - [跟洋妞学英语 Jacki](https://www.youtube.com/c/JackiesEnglishClass/featured)
 - [DIY Perks DIY大佬](https://www.youtube.com/c/DIYPerks/featured)
 - [老高與小茉](https://www.youtube.com/channel/UCMUnInmOkrWN4gof9KlhNmQ/featured)
 - [Sean的世界TV 泰国vlog](https://www.youtube.com/channel/UCPmbIdXZzLDHNR0PejH0iEQ/videos)
-
-## YouTube视频推荐：
-- [从英文白痴到流利，你可以复制的逆袭方式](https://www.youtube.com/watch?v=b4vbS4mJfRY) 视频，学习英语的方法
-
 
 ---
 
@@ -195,11 +183,11 @@
 
 - [聚BT - 在线影视板块 - 合集导航](https://jubt.fun/cn/index.html#在线影视)
 - [破解资源君的在线电影网站推荐 - 合集推荐](https://github.com/pojiezhiyuanjun/freemovie/wiki)
-- 以下为个人推荐，均为磁力
-- [凌云（电影磁力下载）](www.lingyun.tv) 资源丰富
-- [片库小号](https://www.btnull.re) 片库被404之后的备用站点，资源丰富,但要登录
+- [Sukebei 磁力种子+ 外](https://sukebei.nyaa.si)
+- 
 - [mp4电影](www.domp4.cc) 资源一般
 - [迅雷电影天堂](https://www.xl720.com) 好像还行，但资源容量偏小
+- 
 - [字幕库2](https://zimuku.org)
 - [字幕库3](https://zmk.pw/)
 - [射手网[伪]](secure.assrt.net) 字幕网站
@@ -226,7 +214,6 @@
 - [APKPure应用商店,下载全球app的安卓APK](https://apkpure.com/cn/)
 - [9Apps 阿里出品的国际第三方 安卓应用和游戏商店（可下载国外应用软件）](https://www.9apps.com/)
 - 
-- [gamestatus 查询某一款游戏 是否被破解](https://gamestatus.info/)
 - [YouGlish - 输入英语单词或句子，搜索在YouTube 视频里的发音/读音](https://youglish.com)
 
 
@@ -239,15 +226,11 @@
 - [一次性邮箱](https://temp-mail.org/zh)
 
 
-## LSP导航！
-
+## LSP！
 - https://theporndude.com/zh
 - https://drive.google.com/file/d/1kigVyhT9etZOkcZ-eOEbfrkiFSKvef/view
-
-## GHS网站
-
+- 
 - [P站](https://cn.pornhub.com/)
-- [GHS图片](https://asiansister.com/tag.php?tag=hot)
 - [JavDB番号+成人数据库](https://javdb.com/)
 
 ----------------------------
@@ -264,9 +247,6 @@
 ---
 
 > 注意：本文章 在自动翻译的浏览器下，会显示不正常，要关掉自动翻译，或者使用Egde、Chrome浏览器打开  
-
-
-
 
 
 
