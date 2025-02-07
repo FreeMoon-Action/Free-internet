@@ -17,8 +17,8 @@
 
 ## 科学软件工具：
 
-- [【Clash Verge】](https://github.com/clash-verge-rev/clash-verge-rev/releases) 下载安装版64位
-	- 由于clash 内核作者和 clash for windows 作者跑路，旧版 clash 无人维护更新，现在更推荐用 Clash Verge
+- [【Clash Verge】](https://github.com/clash-verge-rev/clash-verge-rev/releases) 下载安装版64位 (基于Tauri2框架开发的开源跨平台 clash 客户端, 内置Clash.Meta(mihomo)内核) 现在主流的VPN工具，非常推荐！  
+	- 由于clash 内核作者和 clash for windows 作者跑路，旧版 clash 无人维护更新，现在更推荐用 Clash Verge。
 - [【Clash for windows 汉化包作者提供的版本】](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases)  
 汉化包作者提供了删库前的版本，和打包的汉化版。
 	- [clash汉化，clash默认语言为英语，可下载汉化版](https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases)  
@@ -73,9 +73,9 @@
 > 免费、便宜的机场都不太稳定。  
 > 有任何问题请联系机场的客服，几乎所有机场，在TG上面都有官方群/聊天群/客服。  
 
-- [](https://login.ouonetwork.com/register?aff=YsDwuCds) 实测效果挺不错，月付10元100G，用我的邀请码`YsDwuCds`注册，下单填`DUANG114514`打8.5折  
-- [XFSS养鸡场（月付1元17G/7元150G，计流量不限时10元120G/20元250G等等）口碑还行](https://xfltd.org/#/register?code=rFmCLdkn) （补充最近速度一般只剩价格优势了）   
-- [飞鸟云 （按流量计费的机场，10元200G，15元400G，20元600G等，不限时，限3设备 ](https://feiniaoyun.top/#/register?code=OUO4ec5n) 不太行，一片红    
+- [OuO专线机场](https://login.ouonetwork.com/register?aff=YsDwuCds) 实测效果不错，月付10元100G，用我的邀请码`YsDwuCds`注册，下单填`DUANG114514`打8.5折即8.5/月  
+- [XFSS养鸡场（月付7元150G，计流量不限时10元120G/20元250G等）口碑还行](https://xfltd.org/#/register?code=rFmCLdkn) （2025.2补充:最近速度一般只剩价格优势了）  
+- [~~飞鸟云 （按流量计费的机场，10元200G，15元400G，20元600G等，不限时，限3设备~~](https://feiniaoyun.top/#/register?code=OUO4ec5n) 不太行，一片红    
 - [~~魔戒 （按流量计费的机场，1元10g，12元130g等，不限制使用时间/人数/设备）~~ （一片红）](https://mojie.me/#/register?code=vcGOwRe1) 不太行，一片红  
 - 
 - 想要便宜、性价比高的，推荐选择流量计费，且不限使用时长的，这样只要你不大量下载、长时间看剧等等，正常使用可以做到10块钱流量够用大半年，非常的Nice！！  
