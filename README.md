@@ -17,17 +17,17 @@
 
 ## 科学软件工具 VPN客户端：
 
-#### Windows
-- [【Clash Verge】](https://github.com/clash-verge-rev/clash-verge-rev/releases) 下载安装版64位 (基于Tauri2框架开发的开源跨平台 clash 客户端, 内置Clash.Meta(mihomo)内核) 现在主流的VPN工具，非常推荐！  
+### 【Windows】
+- [Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev/releases)  下载安装版64位 (基于Tauri2框架开发的开源跨平台 clash 客户端, 内置Clash.Meta(mihomo)内核) 现在主流的VPN工具，非常推荐！  
 	- 由于clash 内核作者和 clash for windows 作者跑路，旧版 clash 无人维护更新，现在更推荐用 Clash Verge。
-- [【Clash for windows 汉化包作者提供的版本】](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases)  
+- [Clash for windows 汉化包作者提供的版本](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases)  
 汉化包作者提供了删库前的版本，和打包的汉化版。（无作者更新，尽快迁移至 Clash Verga.）
   - 注意：目前已知的bug，clash非开机自启，并且在不退出关闭clash关机的情况下，下次开机将会无法联网，解决办法是启动clash再关闭能解决，但是避免麻烦尽量关机前退出clash。  
-#### Android 安卓客户端  
-- [【FlClash】](https://github.com/chen08209/FlClash/releases)  （推荐）FlClash 基于 ClashMeta 的开源多平台代理客户端，下载android-arm64-v8a.apk  
-- [【Clash安卓版】 下载高级通用版 premium-universal-release.apk](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/tag/CFA)  
+### 【Android 安卓客户端】  
+- [FlClash](https://github.com/chen08209/FlClash/releases)  （推荐）FlClash 基于 ClashMeta 的开源多平台代理客户端，下载android-arm64-v8a.apk  
+- [Clash安卓版 下载高级通用版 premium-universal-release.apk](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/tag/CFA)  
 
-- 
+### 【其他】
 - [轻量化clash  链接](https://bulianglin.com/archives/easyclash.html)， [介绍使用教程视频](https://youtu.be/-I5T1G6NdKM)  
 
 - [Netch 游戏加速工具, 使用节点代替网游加速器（视频介绍）](https://youtu.be/M-G977nQNhc) - [Netch下载地址 (需要NET库前提)](https://github.com/NetchX/Netch/releases)
