@@ -15,18 +15,17 @@
 
 ----------------------------
 
-## 科学软件工具：
+## 科学软件工具 VPN客户端：
 
+#### Windows
 - [【Clash Verge】](https://github.com/clash-verge-rev/clash-verge-rev/releases) 下载安装版64位 (基于Tauri2框架开发的开源跨平台 clash 客户端, 内置Clash.Meta(mihomo)内核) 现在主流的VPN工具，非常推荐！  
 	- 由于clash 内核作者和 clash for windows 作者跑路，旧版 clash 无人维护更新，现在更推荐用 Clash Verge。
 - [【Clash for windows 汉化包作者提供的版本】](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases)  
-汉化包作者提供了删库前的版本，和打包的汉化版。
-	- [clash汉化，clash默认语言为英语，可下载汉化版](https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases)  
-找到跟clash相同版本号的汉化包，下载app.7z，解压出app.asar文件，复制到clash目录里的resources文件夹，替换掉原app.asar，最后重启clash即可
-- [【Clash安卓版】 下载高级通用版 premium-universal-release.apk](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/tag/CFA)
-	建议下载压缩包便携版，解压即可使用，便携版名称为 Clash.for.Windows-版本号-win.7z  
-	（Mac和Linux的Clash同名）如何更新Clash？ 下载新版压缩包解压覆盖原文件既可，数据不丢失，但需更新同版本汉化包。  
-	注意：目前已知的bug，clash非开机自启，并且在不退出关闭clash关机的情况下，下次开机将会无法联网，解决办法是启动clash再关闭能解决，但是避免麻烦尽量关机前退出clash。  
+汉化包作者提供了删库前的版本，和打包的汉化版。（无作者更新，尽快迁移至 Clash Verga.）
+  - 注意：目前已知的bug，clash非开机自启，并且在不退出关闭clash关机的情况下，下次开机将会无法联网，解决办法是启动clash再关闭能解决，但是避免麻烦尽量关机前退出clash。  
+#### Android 安卓客户端  
+- [【FlClash】](https://github.com/chen08209/FlClash/releases)  （推荐）FlClash 基于 ClashMeta 的开源多平台代理客户端，下载android-arm64-v8a.apk  
+- [【Clash安卓版】 下载高级通用版 premium-universal-release.apk](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/tag/CFA)  
 
 - 
 - [轻量化clash  链接](https://bulianglin.com/archives/easyclash.html)， [介绍使用教程视频](https://youtu.be/-I5T1G6NdKM)  
@@ -74,7 +73,7 @@
 > 有任何问题请联系机场的客服，几乎所有机场，在TG上面都有官方群/聊天群/客服。  
 
 - [云通机场](https://yuntong.one/#/?code=rI51UtfM)  最近口碑不错的机场，不限时长按量付费，只有流量包形式没有按月付费的套餐。￥0.30/GB，1元起充，首单10元获赠5元，实测速度延迟都不错，推荐。  
-	- 使用量不大的话，非常推荐用不限时按量付费的机场，通常不下载之类的10块钱可以用大半年，非常nice！  
+	- 非常推荐用不限时按量付费的机场，使用量不大 不下载之类的，10块钱可以用半年，非常nice！  
 - [OuO专线机场](https://login.ouonetwork.com/register?aff=YsDwuCds) 实测效果不错节点多延迟低，月付10元100G，用我的邀请码`YsDwuCds`注册，下单填`DUANG114514`打8.5折即8.5/月  
 - [XFSS养鸡场（月付7元150G，计流量不限时10元120G/20元250G等）口碑还行](https://xfltd.org/#/register?code=rFmCLdkn) （2025.2补充:最近速度一般只剩价格优势了）  
 - ~~飞鸟云 （按流量计费的机场，10元200G，15元400G，20元600G等，不限时，限3设备~~ 不太行，一片红    
