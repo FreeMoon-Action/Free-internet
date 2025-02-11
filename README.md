@@ -18,10 +18,13 @@
 ----
 
 # VPN客户端 / 软件工具
+> 文章分享的所有客户端，都是开源免费的，在 GitHub 可以审阅源码。  
+> 同时也建议别乱用不熟悉的软件  
+> 软件作恶的破坏力，取决于开发者水平上限, 和道德下限。
 
 ## 【电脑端】Windows and MacOS
 - [Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev/releases)  现在主流的开源跨平台 clash 客户端，非常推荐！  
-	- 由于clash 内核作者和 clash for windows 作者跑路，旧版 clash 无人维护更新，现在更推荐用 Clash Verge。
+	- 由于clash 内核作者和 clash for windows 作者跑路，[【跑路事件】](https://jichanggo.com/clashforwindows%e5%88%a0%e5%ba%93%e8%b7%91%e8%b7%af)， 旧版 clash 无人维护更新，现在更推荐用 Clash Verge。
 	- windows 下载使用 `_x64-setup.exe` 安装包版，不推荐便携版。
 
 - [旧版 Clash for windows 汉化包作者提供的版本](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases) 不推荐。
