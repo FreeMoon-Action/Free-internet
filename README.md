@@ -24,10 +24,13 @@
 - [Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev/releases)  现在主流的开源跨平台 clash 客户端，非常推荐！  
 	- 由于clash 内核作者和 clash for windows 作者跑路，旧版 clash 无人维护更新，现在更推荐用 Clash Verge。
 	- windows 下载使用 `_x64-setup.exe` 安装包版，不推荐便携版。
+
 - [旧版 Clash for windows 汉化包作者提供的版本](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases) 不推荐。
 	- 汉化包作者提供了删库前的版本，和打包的汉化版。（无作者更新，尽快迁移至 Clash Verga.）
 	- 已知的bug，clash在不退出的情况下关机，下次开机将会无法联网，解决办法是启动clash再关闭能解决，但是避免麻烦尽量关机前退出clash。  
+
 - [v2rayN](https://github.com/2dust/v2rayN/releases) 经典老牌VPN工具，功能强大的代理客户端，支持 VMess、VLESS、Trojan、Shadowsocks 等多种协议
+
 ## 【Android 安卓客户端】  
 - [FlClash](https://github.com/chen08209/FlClash/releases) （推荐）
 	- FlClash 基于 ClashMeta 的开源多平台代理客户端
@@ -46,26 +49,27 @@
 > **提醒一下：上网流不流畅、卡不卡顿、网速、延迟等等的这些因素，是由机场的优劣决定的，**  
 > **想要良好的上网体验，请自行寻找优秀的机场。**
 >   
-> 免费、便宜的机场都不太稳定。  
-> 所有机场，在晚上高峰时期都不稳定（别说机场了家用宽带也一样卡）
+> 免费、便宜的机场都不太稳定。  所有机场，在晚上高峰时期都不稳定（别说机场了家用宽带也卡）
 >   
 > 有任何问题请联系机场的客服，几乎所有机场，在TG上面都有官方群/聊天群/客服。  
-
+> 推荐用我的 `邀请码` 注册，很多机场主对邀请用户有折扣 或账户优先权重。
 
 - [云通机场](https://yuntong.one/#/?code=rI51UtfM)  最近口碑不错的机场，不限时长，按量付费！
 	- 只算流量，没有月付套餐。￥0.1-0.3/GB，1元起充，首单10元获赠5元，实测速度延迟都不错，推荐！
 	- 另外，非常推荐用这种按量付费的机场，使用量不大、不下载，通常10块钱可以用半年，非常nice！  
+
 - [OuO专线机场](https://login.ouonetwork.com/register?aff=YsDwuCds)  月付10元100G, 18/200G。（现可打85折）
 	- 实测效果不错节点多延迟低，用我的邀请码`YsDwuCds`注册，下单优惠码填`DUANG114514`打8.5折即8.5/月
+
 - [流量光机场](https://llgjc1.com/#/register?code=Far4jGKn)   4.9元/月150G，9.9/月300G，按量付费30/500G。
 	- 实测延迟稳定还可以，便宜大碗的机场
+
 - [XFLTD养鸡场](https://xfltd.org/#/register?code=rFmCLdkn)  7元/月150G，不限时按量付费 10元120G, 20元250G
 	- （2025.2补充: 最近用的人多了速度一般般，只剩价格优势了） 
+
 - 
-- ~~飞鸟云 （按流量计费的机场，10元200G，15元400G，20元600G等，不限时，限3设备~~ 不太行，一片红    
-- ~~魔戒 （按流量计费的机场，1元10g，12元130g等，不限制使用时间/人数/设备）~~ （一片红）] 不太行，一片红  
-- 
-- 想要便宜、性价比高的，推荐选择流量计费，且不限使用时长的，这样只要你不大量下载、长时间看剧等等，正常使用可以做到10块钱流量够用大半年，非常的Nice！！  
+- ~~飞鸟云 （按流量计费的机场，10元200G，15元400G，20元600G等，不限时，限3设备~~  不太行，一片红    
+- ~~魔戒 （按流量计费的机场，1元10g，12元130g等，不限制使用时间/人数/设备）~~  不太行，一片红  
 
 > 另外，以备不时之需，老司机们通常会准备好几个机场，防止与世界失联！  
 > 避免陷入了 `只有翻出去才能买机场，但没有机场又翻不出去` 的死循环。
@@ -73,10 +77,11 @@
 
 ## 其他问题
 **以上内容能解决大部分问题了，如果还碰到了其他的问题，该如何解决？**  
-1. 大部分机场网站首页都写了很详细的教程可以参考，以及咨询机场客服、或机场TG群。  
-2. 99%的问题，都能在YouTube 和Google上面，可以搜索到大量的视频教程、攻略、讲解等等内容。  
-别像个傻比一样，在百度搜索、在 头条/西瓜/抖音/B站/知乎/QQ/微信 这些地方找，还有在QQ群上面问的。求求你，别害人了，别人真的好心帮你了，会封号/喝茶/铁窗泪的。  
-**==最后，如果真的解决不了，请放弃这件事情。  ==**
+- 大部分机场网站首页都写了很详细的教程可以参考，以及咨询机场客服、或机场TG群。  
+- 99%的问题，都能在YouTube 和Google上面，可以搜索到大量的视频教程、攻略、讲解等等内容。  
+- 别像个傻比一样，在百度搜索、在 头条/西瓜/抖音/B站/知乎/QQ/微信 这些地方找，还有在QQ群上面问的。求求你，别害人了，别人真的好心帮你了，会封号/喝茶/铁窗泪的。  
+
+**最后，如果真的解决不了，请放弃这件事情。**
 
 ----------------------------
 # 其他网站、工具：
@@ -88,7 +93,7 @@
 
 ----------------------------
 ## 路由器 科学上网
-> 很久没关注这个领域，以下内容均为 2022年 左右的硬件，内容可能已经过时、失效，数码产品月月新，请自行寻找其他优秀的产品。  
+> 以下内容均为 2022年 左右的硬件，内容可能过时、失效，数码产品月月新，请自行寻找。  
 
 - **入门级家用路由器，硬路由刷固件，实现科学上网**  
 	- **红米AC2100路由器**（捡二手百元左右），刷OpenWrt固件或老毛子固件。这款路由器比较热门，性价比还算OK，缺点是性能一般，科学速度跑不满百兆，最高70M左右。  
@@ -124,8 +129,7 @@
 - [56BelowTV 零下56](https://www.youtube.com/@56BelowTV/featured)
 - [跟洋妞学英语 Jacki](https://www.youtube.com/c/JackiesEnglishClass/featured)
 - [老高與小茉](https://www.youtube.com/channel/UCMUnInmOkrWN4gof9KlhNmQ/featured)
-- [Sean的世界TV 泰国vlog](https://www.youtube.com/channel/UCPmbIdXZzLDHNR0PejH0iEQ/videos)
-...
+- ...
 
 ---
 
@@ -144,7 +148,7 @@
 - [暴力猴-脚本管理器](https://chromewebstore.google.com/detail/%E6%9A%B4%E5%8A%9B%E7%8C%B4/jinjaccalgkegednnccohejagnlnfdag)  -  [油猴-脚本管理器](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-CN) 
 	- 油猴、暴力猴本质是一个东西
 - [油猴脚本下载站](https://greasyfork.org/zh-CN/scripts) 配合搜索，可以很方便找到各种优秀的插件  
-	- 油猴插件推荐
+- 油猴插件推荐
     - [隐藏Google+YouTube广告（推荐）](https://greasyfork.org/zh-CN/scripts/38182-hide-youtube-google-ad)
     - [YouTube视频下载](https://greasyfork.org/zh-CN/scripts/369400-local-youtube-downloader)
     - [Github增强 下载加速](https://greasyfork.org/zh-CN/scripts/412245-github-%E5%A2%9E%E5%BC%BA-%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD)
@@ -193,9 +197,9 @@
 - [Tutanota邮箱 开源、端到端加密邮箱](https://tutanota.com/)
 - [一次性邮箱](https://temp-mail.org/zh)
 
-## LSP！
+## 老色批
 - [Sukebei 磁力种子](https://sukebei.nyaa.si/)  
-- https://theporndude.com/zh 导航站
+- https://theporndude.com/zh porn导航站
 - [P站](https://cn.pornhub.com/)
 - [JavDB番号影片数据库](https://javdb.com/)
 
@@ -203,9 +207,7 @@
 
 ## 这篇文章是什么？有什么用？
 
-我的GitHub的个人笔记、导航页，方便收藏链接、查找检索、跨设备浏览，仅用于朋友间交流。  
-并收藏了现在主流、优秀的流程和工具，是怎样的，避免踩坑和不必要的折腾。  
-  
+GitHub 笔记文章、导航页，方便收藏链接、查找检索、跨设备浏览，仅用于朋友间交流。  并收藏了现在主流的优秀的流程和工具，避免踩坑和不必要的折腾。    
 请正确使用科学上网功能，查询论文资料，学习优秀的学术知识，和以及看美剧，学英语等等。  
 不要观看那些傻比网站，也不要发表任何观点，请遵守国内和国外的法律，作为成年人要为自己言行负责。  
 **本文禁止在国内任何社交平台、论坛转载发表，本GitHub项目谢绝Star和Fork**  
