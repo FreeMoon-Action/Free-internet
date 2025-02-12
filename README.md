@@ -23,12 +23,12 @@
 > 软件作恶的破坏力，取决于开发者水平上限, 和道德下限。
 
 ## 【电脑端】Windows and MacOS
-- [Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev/releases)  现在主流的开源跨平台 clash 客户端，非常推荐！  
-	- 由于clash 内核作者和 clash for windows 作者跑路，[【跑路事件】](https://jichanggo.com/clashforwindows%e5%88%a0%e5%ba%93%e8%b7%91%e8%b7%af)， 旧版 clash 无人维护更新，现在更推荐用 Clash Verge。
+- [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev/releases)  现在主流的开源跨平台 clash 客户端，非常推荐！  
+	- 由于clash 内核作者和 clash for windows 作者跑路，[【跑路事件】](https://jichanggo.com/clashforwindows%e5%88%a0%e5%ba%93%e8%b7%91%e8%b7%af)， 旧版 clash 无人维护更新，现在更推荐用 `Clash Verge Rev`
 	- windows 下载使用 `_x64-setup.exe` 安装包版，不推荐便携版。
 
 - [旧版 Clash for windows 汉化包作者提供的版本](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases) 不推荐。
-	- 汉化包作者提供了删库前的版本，和打包的汉化版。（无作者更新，尽快迁移至 Clash Verga.）
+	- 汉化包作者提供了删库前的版本，和打包的汉化版。（现已无人维护更新，尽快迁移至 Clash Verge Rev.）
 	- 已知的bug，clash在不退出的情况下关机，下次开机将会无法联网，解决办法是启动clash再关闭能解决，但是避免麻烦尽量关机前退出clash。  
 
 - [v2rayN](https://github.com/2dust/v2rayN/releases) 经典老牌VPN工具，功能强大的代理客户端，支持 VMess、VLESS、Trojan、Shadowsocks 等多种协议
@@ -36,7 +36,7 @@
 ## 【Android 安卓客户端】  
 - [FlClash](https://github.com/chen08209/FlClash/releases) （推荐）
 	- FlClash 基于 ClashMeta 的开源多平台代理客户端
-	- 下载 `android-arm64-v8a.apk`  
+	- 下载 `android-arm64-v8a.apk`  , 老手机用 `v7a` 
 	- 另外，FlClash 也有 Windows 和 Mac 和 Android 端，也推荐使用。
 
 - [Clash for Android](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/tag/CFA)   旧版，不推荐。
@@ -44,6 +44,24 @@
 
 ### 【其他】
 - 苹果手机/平板等ios系统，请参考机场给出的解决办法，一般为`ShadowRocket`，俗称小火箭，因为国内Apple ID无法下载，需要境外的ID，一般通常机场会免费提供Apple ID，请仔细阅读机场网站的教程和注意事项，或者咨询机场客服。  
+
+## 使用教程 (简易版)
+
+- 电脑/手机端 `Clash 系列`
+	- 复制机场的订阅链接，粘贴到 `clash` 订阅里点 `下载/导入` 即可。
+- 电脑端设置
+	- 这两个选项可视为翻墙总开关，只开其中一个即可，或着都开，能顺利打开 谷歌/YouTube ，即翻墙成功。
+		- 设置里打开 `TUN 模式`，即虚拟网卡上网，比较万能通用，但需管理员权限。
+		- 或打开 `系统代理`，即电脑设置里VPN功能。
+- 安卓 FlClash 设置
+	- 打开 `配置`，新建，将订阅链接导入 URL 提交
+	- 点 `代理`， 选择流畅的节点
+	- 点 `仪表盘`，点右下角播放图标，开启 VPN 功能开关，即可。
+- 其他客户端大同小异，不会的去 YouTube 搜教程。
+- 
+- 【最后】
+	- 尽量使用 `规则` 模式，别用 `全局`，全局意思是所有网络数据都走代理翻出去，你国内的账号不想要了？有账号风控和隐私等等各种风险。
+	- `规则模式`，意思是国外软件/网站，走代理翻墙，国内的软件/网站走直连。更稳妥。
 
 ---
 # 机场
@@ -84,6 +102,18 @@
 - 别像个傻比一样，在百度搜索、在 头条/西瓜/抖音/B站/知乎/QQ/微信 这些地方找，还有在QQ群上面问的。求求你，别害人了，别人真的好心帮你了，会封号/喝茶/铁窗泪的。  
 
 **最后，如果真的解决不了，请放弃这件事情。**
+
+---
+# 个人小 Tips
+- 不要用 `QQ` `微信` 传输机场订阅链接、VPN安装包等等信息，100%会被标记成分！QQ微信B站有人做过测试，发链接100%会被腾讯访问。
+- 不要在国内任何软件上，教别人翻墙、给别人发机场链接、发VPN软件链接，100%自动识别，飞机群已经有人中招了，直接封号，封号算轻的，缺指标了直接铁窗泪。
+- 
+- 若需要 `电脑` 和 `手机` 之间传安装包、订阅链接，用局域网传输工具。
+	- [【LocalSend】官网](https://localsend.org/zh-CN) |  [【localsend】开源链接](https://github.com/localsend/localsend)  
+	- 推荐使用 `Localsend` ，开源免费，局域网传输，纯离线运行。
+		- 需要手机电脑在同一个路由器下面，才是局域网。
+		- 手机电脑都装一个，方便局域网传输各种资料/文件/链接。
+		- 嫌麻烦可以只装电脑端，拖文件进窗口，发送模式通过链接，手机端的浏览器扫码，或输入局域网地址，即可访问下载。
 
 ----------------------------
 # 其他网站、工具：
