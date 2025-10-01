@@ -17,42 +17,47 @@
 ----
 
 # VPN客户端 / 软件工具
-> 文章分享的所有客户端，都是开源免费的，在 GitHub 可以审阅源码。  
-> 同时也建议别乱用不熟悉的软件  
-> 软件作恶的破坏力，取决于开发者水平上限, 和道德下限。
+> 文章分享的所有客户端，均为开源免费，在 GitHub 可以审阅源码。  
+> 同时建议不要使用来源不明的软件，避免被恶意植入后门、病毒等等。  
+> 软件作恶的破坏力，取决于开发者水平上限，和道德下限。
 
 ## 【电脑端】Windows and MacOS
 - [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev/releases)  现在主流的开源跨平台 clash 客户端，非常推荐！
 	- `Windows` 、`MacOS`、`Linux` 系统版本均支持。
 	- windows 下载使用 `_x64-setup.exe` 安装包版，不推荐便携版（点击 `Assets` 可展开，列表末尾有展开全部 show more）
-	- 由于clash 内核作者和 clash for windows 作者跑路，[【跑路事件】](https://jichanggo.com/clashforwindows%e5%88%a0%e5%ba%93%e8%b7%91%e8%b7%af)， 旧版 clash 无人维护更新，现在更推荐用 `Clash Verge Rev`
+	- 由于clash 内核作者和 clash for windows 作者跑路，[【跑路事件】](https://jichanggo.com/clashforwindows%e5%88%a0%e5%ba%93%e8%b7%91%e8%b7%af)， 旧版 Clash 无人维护更新，现在更推荐用 `Clash Verge Rev`
+
+- [FlClash](https://github.com/chen08209/FlClash/releases) 基于 ClashMeta 架构，设计简单、易用，开源免费无广告。
+	- Windows 下载 setup exe 安装包安装即可
 
 - [旧版 Clash for windows 汉化包作者提供的版本](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases) 不推荐。
-	- 汉化包作者提供了删库前的版本，和打包的汉化版。（现已无人维护更新，尽快迁移至 `Clash Verge Rev`）
-	- 已知的bug，clash在不退出的情况下关机，下次开机将会无法联网，解决办法是启动clash再关闭能解决，但是避免麻烦尽量关机前退出clash。  
+	- 汉化包作者提供了删库前的版本，和打包的汉化版。（现由汉化作者维护，但建议尽快迁移至 `Clash Verge Rev`）
 
 - [v2rayN](https://github.com/2dust/v2rayN/releases) 经典老牌VPN工具，功能强大的代理客户端，支持 VMess、VLESS、Trojan、Shadowsocks 等多种协议
-
+- 
+- 其他
+	- 已知的bug/问题，电脑端 `clash` 程序不关闭就关机，下次开机将会无法联网，解决办法是启动clash再关闭能解决，但是避免麻烦尽量关机前退出clash。  
 ## 【Android 安卓客户端】  
 - [FlClash](https://github.com/chen08209/FlClash/releases) （推荐）
-	- FlClash 基于 ClashMeta 的开源多平台代理客户端
+	- `FlClash` 基于 `ClashMeta` 的开源多平台代理客户端
 	- 下载 `android-arm64-v8a.apk`  , 老手机用 `v7a` 
-	- 另外，FlClash 也有 Windows 和 Mac 和 Android 端，也可以使用。
+	- 另外，FlClash 也有 `Windows` 和 `Mac` 和 `Android` 端，也推荐使用。
 
-- [Clash for Android](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/tag/CFA)   旧版，不推荐。
+- [Clash for Android](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/tag/CFA)   旧版，不推荐，已停止更新维护。
 	- 下载高级通用版 `premium-universal-release.apk`
 
 ### 【其他】
-- 苹果手机/平板等ios系统，请参考机场给出的解决办法，一般为`ShadowRocket`，俗称小火箭，因为国内Apple ID无法下载，需要境外的ID，有些机场会免费提供Apple ID，或者某宝购买ID，请仔细阅读机场网站的教程和注意事项，或者咨询机场客服、或者谷歌搜索。  
+- 苹果手机/平板等ios系统，一般为 `ShadowRocket` ，俗称小火箭，因为国内Apple ID无法下载，需要境外的ID，也可参考机场给出的解决办法，有些机场会免费提供Apple ID，或者某宝购买ID，油管有很多关于境外ID注册的方法。也可以参考机场的教程和注意事项，或者咨询机场客服、或者谷歌搜索。  
 
 ## 使用教程 (简易版)
 
 - 电脑/手机端 `Clash 系列`
-	- 复制机场的订阅链接，粘贴到 `clash` 订阅里点 `下载/导入` 即可。
+	- 复制机场的订阅链接，粘贴到 `clash` 订阅里点 `下载/导入` 并选中。
+	- 在代理选择里，选择节点，尽量选择延迟低、速度快、热门的节点，比如 香港、台湾、日本、新加坡等等热门地区下的节点。
 - 电脑端设置
 	- 下面这两个选项可视为翻墙总开关，只开其中一个即可，或着都开，能顺利打开 谷歌/YouTube ，即翻墙成功。
 		- 1，打开 `系统代理` 开关，即电脑设置里VPN功能，此时网络通过系统代理，通过clash连接，少部分软件无法连接成功。
-		- 2，设置里打开 `TUN 模式`，即虚拟网卡上网，比较万能通用，但需管理员权限。
+		- 2，设置里打开 `TUN模式/虚拟网卡模式`，即虚拟网卡上网，比较万能通用，但需管理员权限。
 - 安卓 `FlClash` 设置
 	- 打开 `配置`，新建，将订阅链接导入 URL 提交、或扫机场订阅的码。
 	- 点 `代理`， 筛选流畅的节点。
@@ -70,20 +75,25 @@
 >   
 > 免费便宜的机场都不太稳定。  所有机场 在晚上高峰时期都不稳定（别说机场了家用宽带也卡）
 >   
-> 有任何问题请联系机场客服
-> 推荐用我的 `邀请码` 注册，很多机场主对邀请用户有折扣和优惠、账户权重等
+> 有任何问题请联系机场客服。  
+> 推荐用我的 `邀请码` 注册， 很多机场主对邀请用户有折扣和优惠、账户权重等
 
 
 | 机场                                                            | 费用                                                    | 备注说明                                                             | 推荐指数(满分5星)   |
 | ------------------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------------------- | ------------ |
-| [一云梯](https://1ytcom04.1yunti.net/register?aff=QRDIK5Nm)      | 15/月100G，30/月200G，98/年60G每月。没有按量付费。                   | 价格中等，实测半年很稳定，节点很多，ip固定，几乎不掉线，稳得一批。 `（通过邀请注册可用9折优惠码imdd）`         | 4星，还不错       |
-| [淘气兔](https://taoqitu.me/index.html?register=PmjukBYS)        | 7.8元/月100G，12元/月200G，按量付费22元100G，66元400G              | 价格便宜，月付和按量付费都很便宜，实测还行，但是新机场稳定性略低。                                | 4星，还不错       |
-| [ButBit坚果机场](https://www.nutbit.net/#/register?code=zrwBmric) | 15元/3个月50G每月，10元/月100G，15/月200G                       | 还不错，便宜好用，实测稳定性还可以。                                               | 3星，还行        |
-| [流量光机场](https://llgjc1.com/#/register?code=Far4jGKn)          | 4.9元/月150G，9.9/月300G，按量付费30/500G。                     | 实测延迟、稳定性都还可以，便宜大碗的机场。                                            | 3.5星，还行，并且便宜 |
-| [云通机场](https://yuntong.one/#/?code=rI51UtfM)                  | 只有不限时长按量付费，流量用多少扣多少，没有月付套餐。￥0.1-0.3/GB，1元起充，首单10元获赠5元 | 实测速度延迟都不错。但后来发现节点ip经常变，对ip固定有要求的别买，要求不高的没事。很适合当作备用机场             | 3星，还行        |
+| [一云梯](https://1ytcom04.1yunti.net/register?aff=QRDIK5Nm)      | 15/月100G，30/月200G，98/年60G每月。没有按量付费。                   | 价格还行，实测半年很稳定，节点很多，ip固定，几乎不掉线，稳得一批。                               | 4星，还不错       |
+| [淘气兔](https://taoqitu.me/index.html?register=PmjukBYS)        | 7.8元/月100G，12元/月200G，按量付费22元100G，66元400G              | 价格实惠延迟低，月付和按量都便宜，实测大半年除了偶尔不稳，长期来看还算可以                            | 4星，还不错       |
+| [ButBit坚果机场](https://www.nutbit.net/#/register?code=zrwBmric) | 15元/月100G，24/月200G。无按量                                | 涨价了，实测用着还行。                                                      | 3星，还行        |
+| [流量光机场](https://llgjc1.com/#/register?code=Far4jGKn)          | 4.9元/月150G，9.9/月300G，按量付费55/1000G                     | 实测延迟、稳定性都中规中矩，没什么大问题，便宜大碗的机场                                     | 3.5星，还行，并且便宜 |
+| [云通机场](https://yuntong.one/#/?code=rI51UtfM)                  | 只有不限时长按量付费，流量用多少扣多少，没有月付套餐。￥0.1-0.3/GB，1元起充，首单10元获赠5元 | 实测速度延迟中规中矩。但后来发现节点ip经常变，对ip固定有要求的别买，要求不高的没事。很适合当作备用机场            | 3星，还行        |
 | [OuO专线机场](https://login.ouonetwork.com/register?aff=YsDwuCds) | 月付10元100G, 18/200G。（现可打85折）                           | 实测效果不错节点多延迟低，用我的邀请码 `YsDwuCds` 注册，下单优惠码填`DUANG114514`打8.5折即8.5/月 | 4，还不错        |
 | [XFLTD养鸡场](https://xfltd.org/#/register?code=rFmCLdkn)        | 7元/月150G，不限时按量付费 10元120G, 20元250G                     | （2025.2补充: 最近用的人越来越多了速度很一般，只剩价格优势）                               | 2星，不太行       |
 
+（发现写了很多 `还行` ，额、确实没啥可说的，还行的意思是没那么好也没那么差，你买了不会有多惊艳也不会感觉太亏，仅此而已。）
+
+ 另外，发现好多机场，都会默默更改套餐、价格，以他们最新的为准吧，文章随缘更新。不行就换一个，像看手机评测一样，看机场评测。
+
+- 【其他机场】
 - ~~飞鸟云 （按流量计费的机场，10元200G，15元400G，20元600G等，不限时，限3设备~~  不太行，一片红    
 - ~~魔戒 （按流量计费的机场，1元10g，12元130g等，不限制使用时间/人数/设备）~~  不太行，一片红  
 
@@ -95,17 +105,18 @@
 **以上内容能解决大部分问题了，如果还碰到了其他的问题，该如何解决？**  
 - 大部分机场网站首页都写了很详细的教程可以参考，以及咨询机场客服、或机场TG群。  
 - 99%的问题，都能在YouTube 和Google上面，可以搜索到大量的视频教程、攻略、讲解等等内容。  
-- 别像个傻比一样，在百度搜索、在 头条/西瓜/抖音/B站/知乎/QQ/微信 这些地方找，还有在QQ群上面问的。求求你，别害人了，别人真的好心帮你了，会封号的。  
-**最后，如果真有解决不了的问题，请放弃这件事情。**
+- 别像个傻比一样，在百度搜索、在 头条/西瓜/抖音/B站/知乎/QQ/微信 这些地方找，还有在QQ群上面问的。求求你，别害人了，别人真的好心帮你了，会封号的。 
+- 
+- **最后，如果真有解决不了的问题，请放弃这件事情。**
 
 ---
 # 个人小 Tips 【重要】
-- 不要用 `QQ` \ `微信` 传输机场订阅链接、VPN安装包等等信息，100%会被标记成分！AI全自动识别并预警，有博主做过测试QQ微信发的链接100%会被腾讯访问。
-- 不要在国内任何软件上，教别人翻墙、给别人发机场链接、发VPN软件链接，飞机群已经有人中招了，微信直接封号，封号算轻的，帽子缺指标了直接拉你铁窗泪。
+- 不要用 `QQ` \ `微信` 传输机场订阅链接、VPN安装包等等信息，100%会被标记成分，轻则封号重则喝茶。
+- 不要在国内任何软件上，教别人翻墙、给别人发机场链接、发VPN软件链接。飞机群有人反馈，微信直接封号。
 - 
 - 若需要 `电脑` 和 `手机` 之间传安装包、订阅链接，请用局域网传输工具。
-	- 推荐使用 `Localsend` ，开源免费，局域网传输，纯离线运行。
-	- [【LocalSend】官网](https://localsend.org/zh-CN) |  [【localsend】开源链接](https://github.com/localsend/localsend)  
+	- 推荐使用 `Localsend` ，开源免费，局域网传输软件，纯离线运行。
+	- [【LocalSend】官网](https://localsend.org/zh-CN) |  [GitHub开源链接](https://github.com/localsend/localsend)  
 		- 需要手机电脑都连接同一个路由器，才是局域网。
 		- 手机电脑都装一个，方便局域网传输各种资料/文件/链接。
 		- 嫌麻烦可以只装电脑端，拖文件进窗口，发送模式选通过链接，手机端的浏览器扫码，或输入局域网地址，即可访问下载。
@@ -121,22 +132,19 @@
 ----------------------------
 ## 路由器 科学上网
 
-> 以下内容均为 2022年 左右的硬件，**内容已经过时、失效**，数码产品月月新，请自行寻找最新的硬件设备。  
+> 以下内容编辑于 `2022年` 左右，可借鉴思路，但**内容已过时、失效**，数码产品月月新，请自行寻找最新的硬件设备。  
 
 - **入门级家用路由器，硬路由刷固件，实现科学上网**  
-	- **红米AC2100路由器**（捡二手百元左右），刷OpenWrt固件或老毛子固件。这款路由器比较热门，性价比还算OK，缺点是性能一般，科学速度跑不满百兆，最高70M左右。  
-	    - [B站刷固件教程视频](https://www.bilibili.com/video/BV1HZ4y1P7A9) ，[YouTube 刷固件+FQ教程](https://youtu.be/jBaMRhda4Dk) ，
-	    - [OpenWrt 固件视频 YT](https://youtu.be/1OPZVrrZ9xc) -[【恩山帖子】](https://www.right.com.cn/forum/thread-8234820-1-1.html) - [【固件链接](https://sssddddff.lanzouh.com/iwWuG05fla7e)   
-	    - 推荐OpenWrt，功能强大，在YouTube搜索，有非常多各种固件、版本的中文教程。  
-    - **兆能M2**，（百元左右），比较热门，CPU型号高通IPQ6000，性能还行，刷openwrt固件，过程比红米ac2100稍微繁琐一点点，相关内容：[acwifi文章推荐](https://www.acwifi.net/13962.html)，[什么值得买文章](https://post.smzdm.com/p/avxe2m44/)，[B站视频](https://www.bilibili.com/video/BV1Hr4y1B7F2/)。  
-    - **360T7**，（百元左右），CPU型号MT7981，性能还行，可刷 Hanwckf H大的openwrt固件，过程比红米ac2100稍微繁琐一点点，相关内容：[acwifi文章推荐](https://www.acwifi.net/22217.html)，[B站视频](https://www.bilibili.com/video/BV18e4y1g7VL/)，[图文教程](https://qust.me/post/360t7-openwrt/)，[Hanwckf图文教程](https://cmi.hanwckf.top/p/360t7-firmware/)。  
+	- 路由器型号和刷固件等内容过时、失效，已删除。
+	- 可在 YouTube 或 B站 搜索 `路由器 OpenWrt` 等关键词，查找当前热门的、可刷固件的路由器。（过程较为繁琐，需要极强的动手能力）
+	
 - **网关模式**：这个方式有多种叫法，网关模式、局域网共享、旁路由、单臂路由、透明网关，叫法不同，作用类似，通过电脑或手机里的科学软件，比如clash，开启局域网端口，就可以实现这个路由器下的这个端口的设备都能科学上网，缺点是每个设备第一次连接时，需要多一步设置手动代理、填ip填端口，有点麻烦，除非，在路由器里关闭dhcp设置静态ip并指向共享网络的设备的ip，就能避免手机等设备需要改设置的问题，但是不建议使用，一般人搞不明白，能搞明白的人不需要这么繁琐的东西。并而这样做，且始终需要一台手机电脑等设备，时时刻刻分享局域网代理，这个只适合短时间内电脑给手机、平板、VR等设备，共享网络，不太适合长时间使用。[教程链接](https://youtu.be/Y6dDuL73Vxo) （或自行查找其它教程）  
 - **软路由+OpenWrt** ，算是终极解决方法了，软路由做主路由拨号，普通硬路由器做AP，是目前比较主流的性价比、方便、快捷、性能强悍的解决方案。  
 	- 软路由性能强大，功能丰富，拓展性强，大部分设备最低都可以局域网2.5G，科学千兆。  
 	- 常见的软路由价格在200-1000左右，通常为四五百，且配置起来稍微繁琐。  
-	- 软路由固件推荐使用`OpenWRT` ，或者 [iStoreOS](https://github.com/istoreos) （一个由 `OpenWRT` 简化优化之后的固件，口碑挺不错！[(youtube视频介绍)](https://www.youtube.com/watch?v=8NCydysULe8)）  
+	- 软路由固件推荐使用`OpenWRT` ，或者 [iStoreOS](https://github.com/istoreos) 
 	- **常见的软路由设备型号：**  
-		- ARM架构:R4S\R2S\R5S\H68K\R68s 等等，折腾难度比x86低一点点  
+		- ARM架构: ~~R4S\R2S\R5S\H68K\R68s~~ 等等，折腾难度比x86低（型号已过时）  
 		- X86架构：J1900\J4125\N5105等处理器的工控机/小主机，其他更多型号和推荐，在YouTube可以找到很多相关的内容。  
 
 ----------------------------
@@ -165,20 +173,20 @@
 
 - 浏览器推荐
 	- [谷歌Chrome浏览器](https://www.google.com/chrome/)、国内的 [百分浏览器](https://www.centbrowser.cn/) 
-	- 其它360浏览器等等的都不推荐使用，网址都会被云检测。
-- 以下为浏览器插件使用推荐
+	- 其它360浏览器等等都不推荐使用，记录/隐私等都会被记录、检测。
 
-- [划词翻译](https://hcfy.app/)
-- [YouTube 双字幕自动翻译](https://chrome.google.com/webstore/detail/youtube-dual-subtitles/hkbdddpiemdeibjoknnofflfgbgnebcm)
-- [视频倍速播放  适用于大部分网站视频](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk)  
-- [跨浏览器同步书签](https://chrome.google.com/webstore/detail/floccus-bookmarks-sync/fnaicdffflnofjppbagibeoednhnbjhg/related)
-
-- [暴力猴-脚本管理器](https://chromewebstore.google.com/detail/%E6%9A%B4%E5%8A%9B%E7%8C%B4/jinjaccalgkegednnccohejagnlnfdag)  -  [油猴-脚本管理器](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-CN) 
-	- 油猴、暴力猴本质是一个东西
-- [油猴脚本下载站](https://greasyfork.org/zh-CN/scripts) 配合搜索，可以很方便找到各种优秀的插件  
-- 油猴插件推荐
-    - [隐藏Google+YouTube广告（失效）](https://greasyfork.org/zh-CN/scripts/38182-hide-youtube-google-ad)
-    - [Github增强 下载加速](https://greasyfork.org/zh-CN/scripts/412245-github-%E5%A2%9E%E5%BC%BA-%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD)
+- 浏览器插件推荐
+	- [划词翻译](https://hcfy.app/)
+	- [YouTube 双字幕自动翻译](https://chrome.google.com/webstore/detail/youtube-dual-subtitles/hkbdddpiemdeibjoknnofflfgbgnebcm)
+	- [视频倍速播放  适用于大部分网站视频](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk)  
+	- [跨浏览器同步书签](https://chrome.google.com/webstore/detail/floccus-bookmarks-sync/fnaicdffflnofjppbagibeoednhnbjhg/related)
+	
+	- [暴力猴-脚本管理器](https://chromewebstore.google.com/detail/%E6%9A%B4%E5%8A%9B%E7%8C%B4/jinjaccalgkegednnccohejagnlnfdag)  -  [油猴-脚本管理器](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-CN) 
+		- 油猴、暴力猴本质是一个东西
+	- [油猴脚本下载站](https://greasyfork.org/zh-CN/scripts) 配合搜索，可以很方便找到各种优秀的插件  
+	- 油猴插件推荐
+	    - [隐藏Google+YouTube广告（失效）](https://greasyfork.org/zh-CN/scripts/38182-hide-youtube-google-ad)
+	    - [Github增强 下载加速](https://greasyfork.org/zh-CN/scripts/412245-github-%E5%A2%9E%E5%BC%BA-%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD)
 
 ## 电影、字幕、电视剧、影视
 
@@ -201,9 +209,10 @@
 - [Telegram 电报](https://telegram.org/) 
 	- 简称TG或飞机，国外常用的聊天工具, 开源软件。吊打QQ微信
 	- [视频教程](https://youtu.be/zKSoN0ZHqso) / [TG电报频道搜索网](https://cn.tgstat.com/)  
-	- （骗子极多，自行避坑，不熟的别玩）
-- [Quora 国外版知乎, 在线问答网站](https://www.quora.com/)
-- [Reddit 娱乐、兴趣、社交、论坛、新闻等交流网站](https://www.reddit.com/)
+	- 手机端注册麻烦，自行去油管搜教程，建议自备国外手机号更佳（别用国内+86手机号注册）
+	- 注意：骗子极多，主动私信你的 99.99%是骗子，自行避坑，不熟别玩，很多老手都会掉沟里。  
+- [Quora 知乎原型, 在线问答网站](https://www.quora.com/)
+- [Reddit 贴吧原型 娱乐、兴趣、社交、论坛、新闻等交流网站](https://www.reddit.com/)
 - [Discord 大型互联网社群、兴趣交流社区](https://discord.com/)
 - [全球上网测速](https://fast.com/zh/tw/) 测机场速度
 - [1337X 搜种子电影音乐等等](https://www.1377x.to/)
@@ -221,7 +230,7 @@
 - [电子邮箱推荐](https://qiangwaikan.com/best-email-provider/)
 -   
 - [谷歌邮箱Gmail，全球上网冲浪必备！（注册谷歌号即可）](https://mail.google.com/)
-- [微软邮箱，免手机号，上网冲浪必备！](https://outlook.live.com/mail/0/)
+- [微软邮箱，注册难度低，免手机号，上网冲浪必备！](https://outlook.live.com/mail/0/)
 - [Tutanota邮箱 开源、端到端加密邮箱](https://tutanota.com/)
 - [一次性邮箱](https://temp-mail.org/zh)
 
@@ -236,14 +245,20 @@
 ## 这篇文章是什么？有什么用？
 
 GitHub 笔记文章、导航页，方便收藏链接、查找检索、跨设备浏览，仅用于朋友间交流。  并收藏了现在主流的优秀的流程和工具，避免踩坑和不必要的折腾。    
+
 请正确使用科学上网功能，查询论文资料，学习优秀的学术知识，和以及看美剧，学英语等等。  
-不要观看那些傻比网站，也不要发表任何观点，请遵守国内和国外的法律，作为成年人要为自己言行负责。  
+
+不要观看那些傻比网站，也不要发表任何不正确的观点，请遵守国内和国外的法律，作为成年人要为自己言行负责。  
+也请相信先进技术的力量，凡是发生的事情，必留痕！！！   
+
 **本文禁止在国内任何社交平台、论坛转载发表，本GitHub项目谢绝Star和Fork**  
 
 ---
 
 ## 更新日志
 
+- 2025年10月01日
+	- 更新一些内容，修复bug
 - 2025年2月11日
 	- 回头看了一下之前写的内容，有很多失效和不合理的内容，最近机场用的多了更新了几个还不错的，顺便把一些失效的链接推荐给删了，去掉一些没价值的内容。其他内容推荐你们刷 YouTube，我推荐的东西始终有局限性，尝试去搜索，可以学到不少知识。
 
